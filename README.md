@@ -6,13 +6,9 @@ Title: QUDeval: The Evaluation of Questions Under Discussion Discourse Parsing
 
 Authors: [Yating Wu](http://lingchensanwen.github.io), [Ritika Mangla](https://ritikamangla01.netlify.app), [Greg Durrett](https://www.cs.utexas.edu/~gdurrett/) and [Junyi Jessy Li](https://jessyli.com) 
 
-```bibtex
-we will put this soon.
-```
-
 ## Introduction
 
-This current repo contains the meta code and meta data for QUDeval. The data and code will be added soon and the repo will be updated soon with more details.
+This work introduces the first framework for the automatic evaluation of QUD(Question under discussion) parsing. This current repo contains the meta code and meta data for QUDeval. We're actively working in progres for it. We'll put more details soon.
 
 ## Table of Contents
 
@@ -21,9 +17,9 @@ This current repo contains the meta code and meta data for QUDeval. The data and
 
 ## Data Collection
 [sec-data]: #data-collect
-Please email us for the data collection, we will put this [online]("./data") soon.
+Please email us for the data collection, we will put this under [data]("./data") folder.
 
 ## Code for evaluation
 [sec-code]: #code-implemnt
 
-We will put this [online]("./code") soon.
+(Working in progress) Scirpts for data processing and running evaluation. We will put under [code]("./code") folder.
