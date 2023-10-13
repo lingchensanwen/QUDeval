@@ -38,4 +38,14 @@ For queries or further discussions, please feel free to reach out to [Yating Wu]
 
 If you're utilizing our dataset in your research, we kindly ask you to cite our paper:
 
-QUDeval: The Evaluation of Questions Under Discussion Discourse Parsing (bibtex coming soon)
+```bibtex
+@inproceedings{wu2023qudeval,
+    title={QUDeval: The Evaluation of Questions Under Discussion Discourse Parsing},
+    author={Wu, Yating and Mangla, Ritika and Durrett, Greg and Li, Junyi Jessy},
+    booktitle={EMNLP 2023},
+    pages={to appear},
+    year={2023}
+}
+
+```
+

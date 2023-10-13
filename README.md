@@ -4,6 +4,19 @@ Welcome to the official repository for the EMNLP 2023 paper, "QUDeval: The Evalu
 
 **Authors:** [Yating Wu](http://lingchensanwen.github.io), [Ritika Mangla](https://ritikamangla01.netlify.app), [Greg Durrett](https://www.cs.utexas.edu/~gdurrett/), and [Junyi Jessy Li](https://jessyli.com)
 
+
+If you find our work useful or relevant to your research, please consider citing our paper. 
+```bibtex
+@inproceedings{wu2023qudeval,
+    title={QUDeval: The Evaluation of Questions Under Discussion Discourse Parsing},
+    author={Wu, Yating and Mangla, Ritika and Durrett, Greg and Li, Junyi Jessy},
+    booktitle={EMNLP 2023},
+    pages={to appear},
+    year={2023}
+}
+
+```
+
 ## Introduction 🌟
 
 This work introduces the first framework for the automatic evaluation of QUD parsing, instantiating the theoretical constraints of QUD in a concrete protocol. 
