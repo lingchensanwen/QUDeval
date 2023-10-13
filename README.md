@@ -6,7 +6,7 @@ Welcome to the official repository for the EMNLP 2023 paper, "QUDeval: The Evalu
 
 ## Introduction 🌟
 
-QUDeval is the inaugural framework designed specifically for the automatic evaluation of Question Under Discussion (QUD) parsing. This repository hosts the essential code and metadata for QUDeval. While this project is a work in progress, we are committed to updating details and resources regularly.
+This work introduces the first framework for the automatic evaluation of QUD parsing, instantiating the theoretical constraints of QUD in a concrete protocol. 
 
 ## Table of Contents 📚
 
