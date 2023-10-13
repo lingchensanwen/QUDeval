@@ -15,11 +15,11 @@ QUDeval is the inaugural framework designed specifically for the automatic evalu
 
 ## Data Collection 📥
 
-The dataset associated with our research is fundamental to QUDeval. For access to the data, please send us an [email](mailto:yating.wu@utexas.edu). Once acquired, the data should be placed in the [`data`](./data) folder.
+The dataset associated with our research is fundamental to QUDeval. For access to the data, please send us an [email](mailto:yating.wu@utexas.edu). Once acquired, the data should be placed in the [`data`](https://github.com/lingchensanwen/QUDeval/tree/main/data) folder.
 
 ## Code for Evaluation 🖥️
 
-*Work in progress:* We're in the process of finalizing the scripts for data processing and evaluation. These resources will soon be available in the [`code`](./code) folder.
+*Work in progress:* We're in the process of finalizing the scripts for data processing and evaluation. These resources will soon be available in the [`code`](https://github.com/lingchensanwen/QUDeval/tree/main/code) folder.
 
 ---
 
