@@ -15,7 +15,7 @@ This work introduces the first framework for the automatic evaluation of QUD par
 
 ## Data Collection 📥
 
-The dataset associated with our research is fundamental to QUDeval. For access to the data, please send us an [email](mailto:yating.wu@utexas.edu). Once acquired, the data should be placed in the [`data`](https://github.com/lingchensanwen/QUDeval/tree/main/data) folder.
+The data is placed under the [`data`](https://github.com/lingchensanwen/QUDeval/tree/main/data) folder.
 
 ## Code for Evaluation 🖥️
 
