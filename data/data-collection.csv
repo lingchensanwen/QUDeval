@@ -1,734 +1,734 @@
 ,anchor_id,answer_id,questions,criteria1,criteria2,criteria3,criteria4,system,essay_id
-0,1,2,"What do foreign policy experts say about the issue? <|endoftext|>
+0,1,2,"What do foreign policy experts say about the issue? 
 ",1,3,3,2,Ko,1439
-1,2,3,"What does Glenn say about the reported black market deal? <|endoftext|>
+1,2,3,"What does Glenn say about the reported black market deal? 
 ",1,1,1,1,Ko,1439
-2,3,4,"What does the report say about the dangerous materials coming from the U.S.? <|endoftext|>
+2,3,4,"What does the report say about the dangerous materials coming from the U.S.? 
 ",1,3,1,2,Ko,1439
-3,2,5,"Who is responsible for writing the reports? <|endoftext|>
+3,2,5,"Who is responsible for writing the reports? 
 ",No,skipped,skipped,skipped,Ko,1439
-4,1,6,"What does the report say about the matter? <|endoftext|>
+4,1,6,"What does the report say about the matter? 
 ",1,3,3,2,Ko,1439
-5,1,7,"What is not included in the U.S. exports of nuclear material? <|endoftext|>
+5,1,7,"What is not included in the U.S. exports of nuclear material? 
 ",1,1,2,2,Ko,1439
-6,7,8,"What else does the report not include? <|endoftext|>
+6,7,8,"What else does the report not include? 
 ",1,3,1,1,Ko,1439
-7,6,9,"How much plutonium has been produced in the US <|endoftext|>
+7,6,9,"How much plutonium has been produced in the US 
 ",1,3,1,2,Ko,1439
-8,9,10,"How much plutonium is needed to make a nuclear weapon? <|endoftext|>
+8,9,10,"How much plutonium is needed to make a nuclear weapon? 
 ",1,1,2,2,Ko,1439
-9,10,11,"What does the U.S. government expect from the Japanese regarding the issue? <|endoftext|>
+9,10,11,"What does the U.S. government expect from the Japanese regarding the issue? 
 ",1,1,1,2,Ko,1439
-10,1,2,"What is the recent history of the peace talks? <|endoftext|>
+10,1,2,"What is the recent history of the peace talks? 
 ",1,1,1,1,Ko,1440
-11,2,3,"What else was agreed upon by the representatives of the Russian Federation and Ingushetia? <|endoftext|>
+11,2,3,"What else was agreed upon by the representatives of the Russian Federation and Ingushetia? 
 ",1,1,2,1,Ko,1440
-12,2,4,"What is problematic about the limited cease-fire? <|endoftext|>
+12,2,4,"What is problematic about the limited cease-fire? 
 ",1,3,1,1,Ko,1440
-13,1,5,"Why are the peace talks set to resume? <|endoftext|>
+13,1,5,"Why are the peace talks set to resume? 
 ",1,3,1,1,Ko,1440
 14,2,6,"What is the stance of Russia's counterpart to the cease-fire in Ingushetia?
 ",1,1,2,2,Ko,1440
-15,6,7,"How have previous offers been ignored by the Feisty Mascot? <|endoftext|>
+15,6,7,"How have previous offers been ignored by the Feisty Mascot? 
 ",1,3,3,1,Ko,1440
-16,1,8,"Where will the peace talks be held? <|endoftext|>
+16,1,8,"Where will the peace talks be held? 
 ",1,1,1,1,Ko,1440
 17,2,9,"What do the resumption of the talks in the town of Sleptsovsk do to the cease
 ",1,2,1,1,Ko,1440
-18,9,10,"Why do some feel the cease-fire can hold? <|endoftext|>
+18,9,10,"Why do some feel the cease-fire can hold? 
 ",1,3,1,2,Ko,1440
-19,1,11,"Why are the peace talks called resets? <|endoftext|>
+19,1,11,"Why are the peace talks called resets? 
 ",1,2,1,1,Ko,1440
-20,1,3,"What is the international cricket council doing about it? <|endoftext|>
+20,1,3,"What is the international cricket council doing about it? 
 ",1,1,1,1,Ko,1441
-21,4,5,"Who else is accused of being bribed? <|endoftext|>
+21,4,5,"Who else is accused of being bribed? 
 ",1,3,1,1,Ko,1441
-22,5,6,"What other details regarding the alleged bribe offers were revealed? <|endoftext|>
+22,5,6,"What other details regarding the alleged bribe offers were revealed? 
 ",1,1,1,1,Ko,1441
-23,3,7,"What does the ICC have to say about the issue? <|endoftext|>
+23,3,7,"What does the ICC have to say about the issue? 
 ",1,2,1,1,Ko,1441
-24,7,8,"What did the ACB do with the information it has in relation to the bribery allegations? <|endoftext|>
+24,7,8,"What did the ACB do with the information it has in relation to the bribery allegations? 
 ",1,1,1,1,Ko,1441
-25,4,11,"What other attempts at bribe-taking have there been? <|endoftext|>
+25,4,11,"What other attempts at bribe-taking have there been? 
 ",1,1,1,1,Ko,1441
-26,5,14,"Who else was named as the man who made the bribe offers? <|endoftext|>
+26,5,14,"Who else was named as the man who made the bribe offers? 
 ",1,3,3,1,Ko,1441
-27,5,15,"What did Salim Malik have to say about the incident? <|endoftext|>
+27,5,15,"What did Salim Malik have to say about the incident? 
 ",1,1,1,1,Ko,1441
-28,17,18,"What did he say to refute the newspaper report? <|endoftext|>
+28,17,18,"What did he say to refute the newspaper report? 
 ",1,1,1,1,Ko,1441
-29,18,19,"What did he say about the offer made to him? <|endoftext|>
+29,18,19,"What did he say about the offer made to him? 
 ",1,3,1,1,Ko,1441
-30,2,3,"What is the objective of these conditions? <|endoftext|>
+30,2,3,"What is the objective of these conditions? 
 ",1,1,1,1,Ko,1442
 31,3,4,"What is the main objective of Clinton in forging a wedge between Milosevic and the Serbs in
 ",No,skipped,skipped,skipped,Ko,1442
-32,1,5,"What has been the impact of sanctions on Bosnia? <|endoftext|>
+32,1,5,"What has been the impact of sanctions on Bosnia? 
 ",1,1,1,1,Ko,1442
-33,1,6,"What will happen with the sanctions lifted? <|endoftext|>
+33,1,6,"What will happen with the sanctions lifted? 
 ",1,3,1,1,Ko,1442
-34,2,7,"What else will the president be asked to do? <|endoftext|>
+34,2,7,"What else will the president be asked to do? 
 ",1,1,1,1,Ko,1442
-35,1,10,"What is the other issue affecting trade and economic sanctions against Serbia? <|endoftext|>
+35,1,10,"What is the other issue affecting trade and economic sanctions against Serbia? 
 ",1,1,3,1,Ko,1442
-36,4,12,"What condition is proposed for lifting sanctions? <|endoftext|>
+36,4,12,"What condition is proposed for lifting sanctions? 
 ",1,3,1,3,Ko,1442
-37,12,13,"What would happen if the Serbian leader did not comply? <|endoftext|>
+37,12,13,"What would happen if the Serbian leader did not comply? 
 ",1,3,1,1,Ko,1442
-38,1,16,"What is the current state of the negotiations? <|endoftext|>
+38,1,16,"What is the current state of the negotiations? 
 ",1,3,1,1,Ko,1442
-39,1,19,"What has prevented the peace plan from being implemented? <|endoftext|>
+39,1,19,"What has prevented the peace plan from being implemented? 
 ",1,1,2,3,Ko,1442
-40,1,3,"Why is this a concern? <|endoftext|>
+40,1,3,"Why is this a concern? 
 ",1,2,1,1,Ko,1443
-41,8,9,"How do Chinese parents feel about these schools? <|endoftext|>
+41,8,9,"How do Chinese parents feel about these schools? 
 ",1,3,1,1,Ko,1443
-42,1,10,"What is the cost of education in China? <|endoftext|>
+42,1,10,"What is the cost of education in China? 
 ",1,1,3,2,Ko,1443
-43,2,11,"When will the circular go into effect? <|endoftext|>
+43,2,11,"When will the circular go into effect? 
 ",1,1,1,1,Ko,1443
-44,10,12,"What will happen to those that continue to charge exorbitant fees? <|endoftext|>
+44,10,12,"What will happen to those that continue to charge exorbitant fees? 
 ",1,1,1,1,Ko,1443
-45,12,13,"What will happen to those schools that did not return the fees? <|endoftext|>
+45,12,13,"What will happen to those schools that did not return the fees? 
 ",1,3,1,1,Ko,1443
-46,1,14,"What did the circular tell schools to do? <|endoftext|>
+46,1,14,"What did the circular tell schools to do? 
 ",1,1,2,2,Ko,1443
-47,1,16,"What is the general objective behind the 'back to basics' approach? <|endoftext|>
+47,1,16,"What is the general objective behind the 'back to basics' approach? 
 ",1,1,1,1,Ko,1443
 48,2,18,"What has been the consequence of these 'Olympic schools' not providing basic education to their students
 ",1,3,3,3,Ko,1443
 49,9,19,"What does Li worry might happen as a result of this elitist nature of these schools?
 ",1,2,1,1,Ko,1443
-50,2,3,"What is the dog doing on the mound of drying corn dough? <|endoftext|>
+50,2,3,"What is the dog doing on the mound of drying corn dough? 
 ",No,skipped,skipped,skipped,Ko,1444
-51,1,4,"How many people live here? <|endoftext|>
+51,1,4,"How many people live here? 
 ",1,2,skipped,skipped,Ko,1444
-52,5,6,"How many people did the soldiers and helicopters return to? <|endoftext|>
+52,5,6,"How many people did the soldiers and helicopters return to? 
 ",1,2,1,2,Ko,1444
-53,6,7,"What did the people do after they arrived? <|endoftext|>
+53,6,7,"What did the people do after they arrived? 
 ",1,2,1,1,Ko,1444
-54,7,8,"What happened to children during the crackdown? <|endoftext|>
+54,7,8,"What happened to children during the crackdown? 
 ",1,1,1,3,Ko,1444
-55,9,10,"What did she say about those who stayed behind? <|endoftext|>
+55,9,10,"What did she say about those who stayed behind? 
 ",1,3,1,1,Ko,1444
-56,10,11,"What did Cesar do as the soldiers arrived? <|endoftext|>
+56,10,11,"What did Cesar do as the soldiers arrived? 
 ",1,3,1,2,Ko,1444
 57,17,18,"What has the result been for those who stayed in the area after fleeing villages controlled by the army?
 ",1,2,1,3,Ko,1444
-58,15,19,"What did villagers say about the army's treatment of them? <|endoftext|>
+58,15,19,"What did villagers say about the army's treatment of them? 
 ",1,3,1,1,Ko,1444
-59,5,20,"What has happened recently with the army troops that rolled through this village? <|endoftext|>
+59,5,20,"What has happened recently with the army troops that rolled through this village? 
 ",1,1,1,1,Ko,1444
-60,2,3,"What happened to the five missing men from the Vietnam war? <|endoftext|>
+60,2,3,"What happened to the five missing men from the Vietnam war? 
 ",1,3,1,1,Ko,1445
-61,3,4,"How common is it for a veteran of the Vietnam War to return home? <|endoftext|>
+61,3,4,"How common is it for a veteran of the Vietnam War to return home? 
 ",1,3,1,2,Ko,1445
-62,2,5,"How difficult do the remains of the missing soldiers usually have to be dug? <|endoftext|>
+62,2,5,"How difficult do the remains of the missing soldiers usually have to be dug? 
 ",No,skipped,skipped,skipped,Ko,1445
-63,3,6,"What will Willoughby do when he returns to Lang vei? <|endoftext|>
+63,3,6,"What will Willoughby do when he returns to Lang vei? 
 ",1,1,1,1,Ko,1445
-64,1,7,"How many teams will the joint task force work on? <|endoftext|>
+64,1,7,"How many teams will the joint task force work on? 
 ",1,1,1,1,Ko,1445
-65,1,8,"How many investigations have been carried out during this time? <|endoftext|>
+65,1,8,"How many investigations have been carried out during this time? 
 ",1,1,1,2,Ko,1445
-66,1,9,"How many U.S. servicemen were unaccounted for during the Vietnam War? <|endoftext|>
+66,1,9,"How many U.S. servicemen were unaccounted for during the Vietnam War? 
 ",1,1,1,1,Ko,1445
-67,9,10,"Where were the Americans killed in Vietnam? <|endoftext|>
+67,9,10,"Where were the Americans killed in Vietnam? 
 ",1,2,1,2,Ko,1445
-68,1,13,"How have the U.S. and Vietnam met? <|endoftext|>
+68,1,13,"How have the U.S. and Vietnam met? 
 ",1,2,1,2,Ko,1445
-69,1,14,"How many of the U.S. servicemen are unaccounted for in Vietnam? <|endoftext|>
+69,1,14,"How many of the U.S. servicemen are unaccounted for in Vietnam? 
 ",1,3,1,1,Ko,1445
-70,1,2,"What do studies say about the pain of unrequited love? <|endoftext|>
+70,1,2,"What do studies say about the pain of unrequited love? 
 ",1,3,1,2,Ko,1492
-71,3,4,"How do cats understand our communication? <|endoftext|>
+71,3,4,"How do cats understand our communication? 
 ",1,3,1,1,Ko,1492
-72,4,5,"How was the study performed? <|endoftext|>
+72,4,5,"How was the study performed? 
 ",1,1,1,1,Ko,1492
 73,4,6,"What did the researchers do to determine that cats recognize their owners' voices from those of strangers?
 ",1,1,1,1,Ko,1492
-74,6,8,"How did the cats react to the calls of other people? <|endoftext|>
+74,6,8,"How did the cats react to the calls of other people? 
 ",1,1,1,1,Ko,1492
-75,10,11,"What does this mean for cats? <|endoftext|>
+75,10,11,"What does this mean for cats? 
 ",1,1,1,1,Ko,1492
-76,10,12,"What will happen to owners who cannot distinguish their owners' voices? <|endoftext|>
+76,10,12,"What will happen to owners who cannot distinguish their owners' voices? 
 ",No,skipped,skipped,skipped,Ko,1492
-77,10,13,"What does the research say about domestication of cats? <|endoftext|>
+77,10,13,"What does the research say about domestication of cats? 
 ",1,3,2,2,Ko,1492
-78,15,17,"How did cats get to be so standoffish about themselves? <|endoftext|>
+78,15,17,"How did cats get to be so standoffish about themselves? 
 ",No,skipped,skipped,skipped,Ko,1492
-79,17,18,"How do other animals normally respond to humans? <|endoftext|>
+79,17,18,"How do other animals normally respond to humans? 
 ",1,3,1,2,Ko,1492
-80,1,2,"What is especially romantic about the Miami beach? <|endoftext|>
+80,1,2,"What is especially romantic about the Miami beach? 
 ",1,3,1,1,Ko,1493
-81,3,4,"What happened to their numbers? <|endoftext|>
+81,3,4,"What happened to their numbers? 
 ",1,1,2,3,Ko,1493
-82,5,6,"What connection do they believe the decline in the population of sea crabs may have to drugs? <|endoftext|>
+82,5,6,"What connection do they believe the decline in the population of sea crabs may have to drugs? 
 ",1,3,1,1,Ko,1493
-83,10,11,"What does Black think about the lack of crabs? <|endoftext|>
+83,10,11,"What does Black think about the lack of crabs? 
 ",1,3,1,2,Ko,1493
-84,12,13,"How many sightings has the Florida Fish and Wildlife Conservation Commission observed? <|endoftext|>
+84,12,13,"How many sightings has the Florida Fish and Wildlife Conservation Commission observed? 
 ",1,1,1,1,Ko,1493
-85,13,14,"What will this method of collecting data do? <|endoftext|>
+85,13,14,"What will this method of collecting data do? 
 ",1,2,1,1,Ko,1493
-86,16,17,"What is the relationship between the horseshoe crab and the spider? <|endoftext|>
+86,16,17,"What is the relationship between the horseshoe crab and the spider? 
 ",1,3,1,1,Ko,1493
-87,17,18,"How did the horseshoe crab get its current scientific reputation? <|endoftext|>
+87,17,18,"How did the horseshoe crab get its current scientific reputation? 
 ",1,3,1,1,Ko,1493
-88,18,19,"What was once believed to be junk from the sea? <|endoftext|>
+88,18,19,"What was once believed to be junk from the sea? 
 ",1,3,1,1,Ko,1493
-89,19,20,"What was the catch of the crabs? <|endoftext|>
+89,19,20,"What was the catch of the crabs? 
 ",No,skipped,skipped,skipped,Ko,1493
-90,2,3,"What was uncovered? <|endoftext|>
+90,2,3,"What was uncovered? 
 ",1,3,1,1,Ko,1494
-91,2,4,"What was unique about these digital images? <|endoftext|>
+91,2,4,"What was unique about these digital images? 
 ",1,3,1,1,Ko,1494
-92,4,5,"What were the original Digital Images used for? <|endoftext|>
+92,4,5,"What were the original Digital Images used for? 
 ",1,3,1,3,Ko,1494
-93,2,6,"What do experts say about the history of the pictures? <|endoftext|>
+93,2,6,"What do experts say about the history of the pictures? 
 ",1,3,1,1,Ko,1494
-94,2,8,"What did people find out about the images? <|endoftext|>
+94,2,8,"What did people find out about the images? 
 ",1,1,1,1,Ko,1494
-95,9,10,"What did the person tell Wrbican about the man's opinion? <|endoftext|>
+95,9,10,"What did the person tell Wrbican about the man's opinion? 
 ",No,skipped,skipped,skipped,Ko,1494
-96,13,14,"What was Warhol trying to accomplish with these images? <|endoftext|>
+96,13,14,"What was Warhol trying to accomplish with these images? 
 ",1,1,1,1,Ko,1494
 97,2,15,"Why did the Carnegie Mellon University students and alumni recover and preserve some digital images apparently created and stored by
 ",No,skipped,skipped,skipped,Ko,1494
-98,17,19,"What idea did Kukielski have for the exhibit? <|endoftext|>
+98,17,19,"What idea did Kukielski have for the exhibit? 
 ",1,3,3,1,Ko,1494
-99,5,20,"What was Warhol's computer used for? <|endoftext|>
+99,5,20,"What was Warhol's computer used for? 
 ",1,3,1,1,Ko,1494
-100,3,4,"Who else contributed to the site? <|endoftext|>
+100,3,4,"Who else contributed to the site? 
 ",1,1,1,1,Ko,1495
-101,4,5,"What are the arguments of those against the use of the empty reservoirs? <|endoftext|>
+101,4,5,"What are the arguments of those against the use of the empty reservoirs? 
 ",1,2,1,1,Ko,1495
-102,5,6,"What other reason have people for protesting? <|endoftext|>
+102,5,6,"What other reason have people for protesting? 
 ",No,skipped,skipped,skipped,Ko,1495
-103,7,10,"What is the political context of the river Delta? <|endoftext|>
+103,7,10,"What is the political context of the river Delta? 
 ",1,3,1,1,Ko,1495
-104,10,11,"What did the storms do to the Delta? <|endoftext|>
+104,10,11,"What did the storms do to the Delta? 
 ",1,1,1,1,Ko,1495
-105,11,12,"What was happening with the storm surge? <|endoftext|>
+105,11,12,"What was happening with the storm surge? 
 ",1,3,1,1,Ko,1495
-106,12,13,"What did farmers do to get extra flow? <|endoftext|>
+106,12,13,"What did farmers do to get extra flow? 
 ",1,1,2,2,Ko,1495
-107,14,15,"What did some of the state and federal agencies not willing to accept the fishermen's demands? <|endoftext|>
+107,14,15,"What did some of the state and federal agencies not willing to accept the fishermen's demands? 
 ",No,skipped,skipped,skipped,Ko,1495
-108,4,16,"What has the government done to control the situation? <|endoftext|>
+108,4,16,"What has the government done to control the situation? 
 ",1,1,1,1,Ko,1495
-109,16,20,"What is being emphasized by water leaders? <|endoftext|>
+109,16,20,"What is being emphasized by water leaders? 
 ",1,3,1,1,Ko,1495
-110,1,2,"What happened after he took the students to Poland? <|endoftext|>
+110,1,2,"What happened after he took the students to Poland? 
 ",1,2,1,1,Ko,1496
-111,1,3,"What did critics of the trip say? <|endoftext|>
+111,1,3,"What did critics of the trip say? 
 ",1,1,1,1,Ko,1496
-112,1,4,"What did Dajani do when the controversy started? <|endoftext|>
+112,1,4,"What did Dajani do when the controversy started? 
 ",1,3,1,2,Ko,1496
-113,5,6,"What is the objective of this program? <|endoftext|>
+113,5,6,"What is the objective of this program? 
 ",1,1,2,3,Ko,1496
 114,1,7,"What inspired Dajani to travel to Poland to visit the site of the Auschwitz concentration camp?
 ",1,1,1,1,Ko,1496
-115,7,8,"What is the attitude of Palestinians towards the Holocaust? <|endoftext|>
+115,7,8,"What is the attitude of Palestinians towards the Holocaust? 
 ",1,1,1,1,Ko,1496
-116,13,15,"What is Dajani's stance on Palestine's education system? <|endoftext|>
+116,13,15,"What is Dajani's stance on Palestine's education system? 
 ",1,3,1,1,Ko,1496
-117,1,16,"What was the purpose of the trip to Poland? <|endoftext|>
+117,1,16,"What was the purpose of the trip to Poland? 
 ",1,1,1,1,Ko,1496
-118,16,17,"Who funded the project? <|endoftext|>
+118,16,17,"Who funded the project? 
 ",1,1,1,1,Ko,1496
-119,7,18,"How difficult was it for Dajani to make a trip to Auschwitz? <|endoftext|>
+119,7,18,"How difficult was it for Dajani to make a trip to Auschwitz? 
 ",1,1,1,1,Ko,1496
-120,2,3,"What concerns some people about the water? <|endoftext|>
+120,2,3,"What concerns some people about the water? 
 ",1,1,1,1,Ko,901
-121,4,5,"How did the authorities determine she was exposed? <|endoftext|>
+121,4,5,"How did the authorities determine she was exposed? 
 ",1,3,1,1,Ko,901
-122,5,6,"How widespread were the effects of the spill? <|endoftext|>
+122,5,6,"How widespread were the effects of the spill? 
 ",1,1,1,3,Ko,901
 123,1,10,"How did businesses that had reopened after the water was declared safe to drink in portions of West Virginia's
 ",No,skipped,skipped,skipped,Ko,901
-124,10,11,"What happened in other areas? <|endoftext|>
+124,10,11,"What happened in other areas? 
 ",1,1,1,1,Ko,901
-125,11,12,"What happened to businesses that did not face a financial impact? <|endoftext|>
+125,11,12,"What happened to businesses that did not face a financial impact? 
 ",1,3,1,1,Ko,901
-126,14,15,"How did the firefighters distribute the cases? <|endoftext|>
+126,14,15,"How did the firefighters distribute the cases? 
 ",1,1,1,1,Ko,901
 127,13,17,"What is the South Carolina State Police doing to help people who can no longer use the tap water?
 ",1,3,3,2,Ko,901
 128,18,19,"Why did Bernard Casdorph not want to have a shower after three days without a shower?
 ",No,skipped,skipped,skipped,Ko,901
-129,19,20,"What did Bernard Casdorph think about his actions? <|endoftext|>
+129,19,20,"What did Bernard Casdorph think about his actions? 
 ",1,1,1,1,Ko,901
-130,2,3,"How did the group travel? <|endoftext|>
+130,2,3,"How did the group travel? 
 ",1,2,1,1,Ko,902
-131,4,5,"What did the local promoters do? <|endoftext|>
+131,4,5,"What did the local promoters do? 
 ",1,3,1,1,Ko,902
-132,6,7,"What did the performer say about the equipment? <|endoftext|>
+132,6,7,"What did the performer say about the equipment? 
 ",1,1,1,1,Ko,902
-133,7,8,"What do stagehands do on the show? <|endoftext|>
+133,7,8,"What do stagehands do on the show? 
 ",1,1,2,3,Ko,902
-134,6,10,"How long did it take Chris Nolan for his new drum sets? <|endoftext|>
+134,6,10,"How long did it take Chris Nolan for his new drum sets? 
 ",1,1,2,2,Ko,902
-135,2,13,"What is the reason for the Hollywood vaudeville? <|endoftext|>
+135,2,13,"What is the reason for the Hollywood vaudeville? 
 ",No,skipped,skipped,skipped,Ko,902
-136,14,15,"What other group has the Philadelphia Orchestra performed with? <|endoftext|>
+136,14,15,"What other group has the Philadelphia Orchestra performed with? 
 ",1,3,3,2,Ko,902
-137,15,16,"Who is responsible for orchestrating the Hollywood Concert Orchestra and the Hollywood Festival Orchestra? <|endoftext|>
+137,15,16,"Who is responsible for orchestrating the Hollywood Concert Orchestra and the Hollywood Festival Orchestra? 
 ",1,2,3,2,Ko,902
-138,16,17,"Who is the only member of the group? <|endoftext|>
+138,16,17,"Who is the only member of the group? 
 ",No,skipped,skipped,skipped,Ko,902
-139,16,19,"Who are the musicians from? <|endoftext|>
+139,16,19,"Who are the musicians from? 
 ",No,skipped,skipped,skipped,Ko,902
-140,1,2,"How are they trying to get the rays of hope? <|endoftext|>
+140,1,2,"How are they trying to get the rays of hope? 
 ",1,1,1,1,Ko,903
-141,2,3,"How were previous methods for tracking sharks’ movements? <|endoftext|>
+141,2,3,"How were previous methods for tracking sharks’ movements? 
 ",1,1,1,1,Ko,903
-142,6,7,"What is the goal of tracking specific species of the fierce fish? <|endoftext|>
+142,6,7,"What is the goal of tracking specific species of the fierce fish? 
 ",1,1,1,1,Ko,903
-143,7,8,"Why are sharks important to the healthy ocean ecosystem? <|endoftext|>
+143,7,8,"Why are sharks important to the healthy ocean ecosystem? 
 ",1,3,2,2,Ko,903
-144,8,9,"What has the collaboration from the research done so far? <|endoftext|>
+144,8,9,"What has the collaboration from the research done so far? 
 ",1,1,1,3,Ko,903
-145,9,10,"What is a misleading statement, according to Antonio Fins? <|endoftext|>
+145,9,10,"What is a misleading statement, according to Antonio Fins? 
 ",1,3,3,2,Ko,903
-146,10,11,"What else is not American or Mexican? <|endoftext|>
+146,10,11,"What else is not American or Mexican? 
 ",1,3,1,1,Ko,903
-147,2,12,"How many organizations are using solar-powered tags? <|endoftext|>
+147,2,12,"How many organizations are using solar-powered tags? 
 ",1,1,1,1,Ko,903
-148,14,15,"How have those tests been carried out? <|endoftext|>
+148,14,15,"How have those tests been carried out? 
 ",1,3,1,1,Ko,903
-149,18,19,"What happens after six months? <|endoftext|>
+149,18,19,"What happens after six months? 
 ",1,1,1,1,Ko,903
-150,1,2,"Are there any other factors that might influence the child obesity rate? <|endoftext|>
+150,1,2,"Are there any other factors that might influence the child obesity rate? 
 ",1,1,1,1,Ko,905
-151,3,4,"How has obesity among adolescents changed over time? <|endoftext|>
+151,3,4,"How has obesity among adolescents changed over time? 
 ",1,1,1,1,Ko,905
-152,4,5,"What about families with less than high-school educations? <|endoftext|>
+152,4,5,"What about families with less than high-school educations? 
 ",1,1,2,3,Ko,905
-153,10,11,"What could be the negative impact of obesity on public health? <|endoftext|>
+153,10,11,"What could be the negative impact of obesity on public health? 
 ",1,2,1,1,Ko,905
-154,13,14,"What has the percentage for past seven days been? <|endoftext|>
+154,13,14,"What has the percentage for past seven days been? 
 ",1,1,1,1,Ko,905
-155,13,15,"How many adolescents with less than high school degrees exercise or play a sport? <|endoftext|>
+155,13,15,"How many adolescents with less than high school degrees exercise or play a sport? 
 ",No,skipped,skipped,skipped,Ko,905
-156,13,16,"What has changed in that regard? <|endoftext|>
+156,13,16,"What has changed in that regard? 
 ",1,3,1,1,Ko,905
 157,13,17,"How many of these adolescents reported having done at least 10 minutes of physical activity in the last week?
 ",1,2,2,2,Ko,905
-158,18,19,"What is the message for teens with less affluent homes? <|endoftext|>
+158,18,19,"What is the message for teens with less affluent homes? 
 ",1,2,1,1,Ko,905
-159,19,20,"How much did their average calorie intake change? <|endoftext|>
+159,19,20,"How much did their average calorie intake change? 
 ",1,1,1,1,Ko,905
-160,1,2,"What did the student do when his school principal approached him about seeking help for mental illness? <|endoftext|>
+160,1,2,"What did the student do when his school principal approached him about seeking help for mental illness? 
 ",1,1,2,2,Ko,906
-161,2,3,"What happened when the teen sought treatment for mental illness? <|endoftext|>
+161,2,3,"What happened when the teen sought treatment for mental illness? 
 ",1,3,1,1,Ko,906
-162,6,7,"How universal are mental health screenings? <|endoftext|>
+162,6,7,"How universal are mental health screenings? 
 ",1,1,1,1,Ko,906
-163,6,9,"What else should be included in that statement? <|endoftext|>
+163,6,9,"What else should be included in that statement? 
 ",1,3,1,1,Ko,906
-164,10,11,"What does Mike Dennis do for people affected by mental illness? <|endoftext|>
+164,10,11,"What does Mike Dennis do for people affected by mental illness? 
 ",1,1,1,1,Ko,906
-165,6,14,"How many schools have mental health screening? <|endoftext|>
+165,6,14,"How many schools have mental health screening? 
 ",1,2,1,1,Ko,906
-166,14,15,"How many schools offer mental health screenings? <|endoftext|>
+166,14,15,"How many schools offer mental health screenings? 
 ",1,3,1,1,Ko,906
-167,15,16,"What is the response of experts to almost all the options on the table? <|endoftext|>
+167,15,16,"What is the response of experts to almost all the options on the table? 
 ",1,2,1,1,Ko,906
-168,17,18,"What sort of robust screening and treatment programs exist for students? <|endoftext|>
+168,17,18,"What sort of robust screening and treatment programs exist for students? 
 ",1,1,1,1,Ko,906
-169,18,20,"When do teens develop problems with substance use? <|endoftext|>
+169,18,20,"When do teens develop problems with substance use? 
 ",1,3,1,1,Ko,906
 170,1,2,"What was not known about her son that would have made her stop and wonder what was happening?
 ",1,1,2,2,Ko,907
-171,1,5,"What did Apple tell Nussbaum? <|endoftext|>
+171,1,5,"What did Apple tell Nussbaum? 
 ",1,1,2,2,Ko,907
-172,4,7,"How did people react to the news of the charges? <|endoftext|>
+172,4,7,"How did people react to the news of the charges? 
 ",1,1,1,1,Ko,907
-173,2,9,"What else did the agency learn about this in-app purchase? <|endoftext|>
+173,2,9,"What else did the agency learn about this in-app purchase? 
 ",1,1,2,3,Ko,907
-174,9,10,"What else did the FTC find wrong? <|endoftext|>
+174,9,10,"What else did the FTC find wrong? 
 ",1,1,1,1,Ko,907
-175,3,14,"What happened to other parents who had no trouble at all? <|endoftext|>
+175,3,14,"What happened to other parents who had no trouble at all? 
 ",1,3,3,3,Ko,907
-176,2,15,"How did he know that they were buying real money? <|endoftext|>
+176,2,15,"How did he know that they were buying real money? 
 ",No,skipped,skipped,skipped,Ko,907
-177,14,17,"What happened after the refund? <|endoftext|>
+177,14,17,"What happened after the refund? 
 ",1,1,1,1,Ko,907
-178,7,18,"What other experiences have there been? <|endoftext|>
+178,7,18,"What other experiences have there been? 
 ",1,1,1,1,Ko,907
-179,1,19,"What is the cost of the game? <|endoftext|>
+179,1,19,"What is the cost of the game? 
 ",1,3,2,2,Ko,907
 180,5,6,"What was one goal of those who were watching the bulldozers dig through the concrete-covered landfill in
 ",No,skipped,skipped,skipped,Ko,1497
 181,5,8,"How did the residents of the landfill behave after watching backhoes and bulldozers dig through the concrete
 ",1,1,1,1,Ko,1497
-182,8,9,"How many people were there when the e.t. game cartridges were found? <|endoftext|>
+182,8,9,"How many people were there when the e.t. game cartridges were found? 
 ",1,1,1,1,Ko,1497
-183,9,10,"What were some of the people playing the game called? <|endoftext|>
+183,9,10,"What were some of the people playing the game called? 
 ",1,3,2,2,Ko,1497
-184,12,13,"What did Armando Ortega do when he found the huge dump of games? <|endoftext|>
+184,12,13,"What did Armando Ortega do when he found the huge dump of games? 
 ",1,3,3,2,Ko,1497
-185,13,14,"What did they do at the landfill? <|endoftext|>
+185,13,14,"What did they do at the landfill? 
 ",1,1,1,1,Ko,1497
 186,14,15,"What did they find when they braved the darkness, coyotes and snakes of the desert landfill?
 ",1,1,1,1,Ko,1497
-187,1,16,"Why are they interested in the game? <|endoftext|>
+187,1,16,"Why are they interested in the game? 
 ",1,3,1,1,Ko,1497
-188,16,19,"Why did they decide to do it? <|endoftext|>
+188,16,19,"Why did they decide to do it? 
 ",1,3,2,3,Ko,1497
-189,19,20,"What did the spokeswoman at Xbox Entertainment Studios have to say regarding the rumors? <|endoftext|>
+189,19,20,"What did the spokeswoman at Xbox Entertainment Studios have to say regarding the rumors? 
 ",No,skipped,skipped,skipped,Ko,1497
-190,2,3,"What does this mean for the population? <|endoftext|>
+190,2,3,"What does this mean for the population? 
 ",1,1,1,1,Ko,1498
-191,4,5,"What does this mean for the future of the bighorn sheep? <|endoftext|>
+191,4,5,"What does this mean for the future of the bighorn sheep? 
 ",1,1,1,1,Ko,1498
-192,4,6,"How long has it been taking to recover these rarer than ever before? <|endoftext|>
+192,4,6,"How long has it been taking to recover these rarer than ever before? 
 ",No,skipped,skipped,skipped,Ko,1498
-193,6,7,"Who all contribute to the recovery effort? <|endoftext|>
+193,6,7,"Who all contribute to the recovery effort? 
 ",1,1,1,1,Ko,1498
-194,1,9,"What happened to the bighorns? <|endoftext|>
+194,1,9,"What happened to the bighorns? 
 ",1,1,1,1,Ko,1498
-195,13,14,"How many herds were to be re-introduced? <|endoftext|>
+195,13,14,"How many herds were to be re-introduced? 
 ",1,1,1,1,Ko,1498
-196,2,15,"Where else can the reintroduction be compared? <|endoftext|>
+196,2,15,"Where else can the reintroduction be compared? 
 ",1,1,3,3,Ko,1498
-197,3,17,"When did the bighorn population begin to recover? <|endoftext|>
+197,3,17,"When did the bighorn population begin to recover? 
 ",1,3,1,2,Ko,1498
-198,17,18,"What happened as a result of the re-population of the bighorn? <|endoftext|>
+198,17,18,"What happened as a result of the re-population of the bighorn? 
 ",1,3,1,1,Ko,1498
-199,18,19,"How much is the cost of rearing of the animals now? <|endoftext|>
+199,18,19,"How much is the cost of rearing of the animals now? 
 ",1,1,2,2,Ko,1498
-200,2,3,"What will happen to Riley's case after he is arrested? <|endoftext|>
+200,2,3,"What will happen to Riley's case after he is arrested? 
 ",1,1,2,2,Ko,1499
-201,4,5,"What will the results of this case change? <|endoftext|>
+201,4,5,"What will the results of this case change? 
 ",1,1,1,1,Ko,1499
-202,6,8,"Who is this person? <|endoftext|>
+202,6,8,"Who is this person? 
 ",1,1,1,1,Ko,1499
-203,8,9,"What are the implications of these cases on the future of the law enforcement system? <|endoftext|>
+203,8,9,"What are the implications of these cases on the future of the law enforcement system? 
 ",1,1,2,2,Ko,1499
-204,9,10,"What privacy concerns are there? <|endoftext|>
+204,9,10,"What privacy concerns are there? 
 ",1,1,1,2,Ko,1499
-205,10,11,"What might happen to the police if the case against Riley and Wurie is lost? <|endoftext|>
+205,10,11,"What might happen to the police if the case against Riley and Wurie is lost? 
 ",1,1,2,2,Ko,1499
 206,1,13,"Who will be present when the Supreme Court will decide the case of a California man incriminated by his
 ",No,skipped,skipped,skipped,Ko,1499
-207,14,15,"What is the difference between the two cases? <|endoftext|>
+207,14,15,"What is the difference between the two cases? 
 ",1,3,1,1,Ko,1499
-208,8,16,"What is Wurie's opinion? <|endoftext|>
+208,8,16,"What is Wurie's opinion? 
 ",1,3,1,2,Ko,1499
-209,17,18,"What did prosecutors and defense attorneys say about Riley? <|endoftext|>
+209,17,18,"What did prosecutors and defense attorneys say about Riley? 
 ",1,2,1,1,Ko,1499
 210,1,2,"How much of the U.S. currency is found in dresser drawers or wallets?
 ",1,3,1,1,Ko,1500
-211,2,3,"What is the future of this bill? <|endoftext|>
+211,2,3,"What is the future of this bill? 
 ",1,3,3,2,Ko,1500
-212,3,4,"What is the filmmaker doing to spread the word? <|endoftext|>
+212,3,4,"What is the filmmaker doing to spread the word? 
 ",1,1,2,3,Ko,1500
-213,2,8,"What is special about the $2 bill? <|endoftext|>
+213,2,8,"What is special about the $2 bill? 
 ",1,3,1,1,Ko,1500
-214,10,11,"Why do some people save $2 bills? <|endoftext|>
+214,10,11,"Why do some people save $2 bills? 
 ",1,3,1,1,Ko,1500
-215,12,13,"What did he think about the bill? <|endoftext|>
+215,12,13,"What did he think about the bill? 
 ",1,3,1,1,Ko,1500
-216,13,15,"Who is the executive producer of the documentary? <|endoftext|>
+216,13,15,"Who is the executive producer of the documentary? 
 ",1,1,2,2,Ko,1500
-217,15,17,"Why is Shainman passionate about the bill? <|endoftext|>
+217,15,17,"Why is Shainman passionate about the bill? 
 ",1,3,1,1,Ko,1500
-218,4,18,"How much did he raise to fund the project? <|endoftext|>
+218,4,18,"How much did he raise to fund the project? 
 ",1,1,2,2,Ko,1500
-219,19,20,"What did he do in Florida? <|endoftext|>
+219,19,20,"What did he do in Florida? 
 ",1,1,1,1,Ko,1500
-220,1,2,"How did the apology by his estranged wife, Winnie, turn out? <|endoftext|>",1,3,1,1,Ko,1419
-221,4,5,What did the second letter express? <|endoftext|>,1,1,1,1,Ko,1419
-222,1,6,What did President Nelson Mandela say about the apology? <|endoftext|>,1,1,1,1,Ko,1419
-223,6,7,What does he say about her position in the government? <|endoftext|>,1,1,1,1,Ko,1419
-224,7,8,What does the statement imply for the ministers? <|endoftext|>,1,1,1,1,Ko,1419
-225,1,10,What is the background of Winnie Mandela? <|endoftext|>,1,1,1,1,Ko,1419
-226,13,14,What happened in the past that would make their marriage to be in jeopardy? <|endoftext|>,1,1,1,1,Ko,1419
-227,14,15,What happened to the other three people? <|endoftext|>,1,3,2,3,Ko,1419
-228,15,16,What happened to the other victim? <|endoftext|>,1,3,1,1,Ko,1419
-229,16,17,What happened after her release? <|endoftext|>,No,skipped,skipped,skipped,Ko,1419
-230,1,2,What happened to the three firefighters? <|endoftext|>,1,3,1,1,Ko,1421
-231,1,3,Who was harmed by the fire? <|endoftext|>,1,3,1,1,Ko,1421
-232,1,4,How does this tragedy impact the firefighters on the ground? <|endoftext|>,1,2,1,2,Ko,1421
-233,4,6,What other unusual circumstances have happened recently in the fire department? <|endoftext|>,1,3,3,3,Ko,1421
-234,1,7,What happened before the three firefighters died? <|endoftext|>,1,1,1,1,Ko,1421
-235,1,8,What happened when the stairs collapsed? <|endoftext|>,1,1,1,1,Ko,1421
-236,8,9,What happened to the firefighters trapped in the recreation room? <|endoftext|>,1,1,1,1,Ko,1421
-237,10,11,What happened to other teams? <|endoftext|>,1,1,2,3,Ko,1421
-238,1,14,What is being done to find out the cause of the fire? <|endoftext|>,1,1,2,2,Ko,1421
-239,14,15,Who were the people killed? <|endoftext|>,1,3,1,2,Ko,1421
-240,1,2,Who made that threat? <|endoftext|>,1,1,1,1,Ko,1422
-241,1,4,What is the situation in the northwest part of the country? <|endoftext|>,1,1,1,1,Ko,1422
-242,2,7,What did Akashi have to say about Ljubijankic's warning? <|endoftext|>,1,3,3,2,Ko,1422
-243,9,10,Why did the U.N. not send a convoy? <|endoftext|>,1,1,1,1,Ko,1422
-244,11,12,How much aid does the U.N. have access to? <|endoftext|>,1,1,1,2,Ko,1422
-245,12,13,What is the situation inside Croatia itself? <|endoftext|>,1,3,1,1,Ko,1422
-246,13,14,How are the U.N. officials feeling about the situation? <|endoftext|>,1,1,1,1,Ko,1422
-247,13,15,What are U.N. officials saying about the food shortages in Bihac? <|endoftext|>,1,1,1,1,Ko,1422
-248,17,18,Why have there been no overflights of food? <|endoftext|>,1,1,2,2,Ko,1422
-249,19,20,What does he think the people would feel if they saw this happen? <|endoftext|>,1,3,1,1,Ko,1422
-250,2,3,What is the working group's concern with new policies? <|endoftext|>,1,2,1,1,Ko,1423
-251,2,4,What does the report say about the restrictions on freedom of thought? <|endoftext|>,1,3,3,3,Ko,1423
-252,1,5,What is the purpose of the U.N. Human Rights Ombudsman's visit? <|endoftext|>,1,3,3,3,Ko,1423
-253,5,6,How was this unique visit to Vietnam received by the human rights community in Vietnam? <|endoftext|>,1,3,3,2,Ko,1423
-254,5,7,What did the U.N. think of the Vietnam visit? <|endoftext|>,1,3,3,2,Ko,1423
-255,7,8,What was prohibited from visiting the pre-trial detention centers? <|endoftext|>,1,3,1,1,Ko,1423
-256,8,9,Why was there a lack of information about the facilities? <|endoftext|>,1,3,1,1,Ko,1423
-257,9,10,What does lack of transparency do to the detainees? <|endoftext|>,1,3,1,1,Ko,1423
-258,11,12,What did the prisoners say about their experiences at the three camps? <|endoftext|>,1,1,1,1,Ko,1423
-259,2,13,What else did the report criticize? <|endoftext|>,1,1,1,1,Ko,1423
-260,1,3,Who was killed in the fire? <|endoftext|>,1,3,1,1,Ko,1424
-261,4,5,Who was the deceased firefighter? <|endoftext|>,1,1,1,1,Ko,1424
-262,1,7,What happened while they were trying to save the three colleagues? <|endoftext|>,1,3,1,1,Ko,1424
-263,1,8,What happened in the house? <|endoftext|>,1,1,1,1,Ko,1424
-264,1,10,What else made the situation worse? <|endoftext|>,1,1,2,3,Ko,1424
-265,14,15,Who were the people killed? <|endoftext|>,1,3,1,2,Ko,1424
-266,15,16,Who were the people killed? <|endoftext|>,1,1,1,1,Ko,1424
-267,16,17,What was Conroy like? <|endoftext|>,1,1,1,1,Ko,1424
-268,18,19,What was the smell like? <|endoftext|>,1,3,3,3,Ko,1424
-269,1,20,How far away were the other two homes? <|endoftext|>,1,1,2,3,Ko,1424
-270,5,7,How does Chet feel about playing for the Sabres? <|endoftext|>,1,3,3,3,Ko,1425
-271,1,8,How did the Los Angeles Kings qualify for the playoffs? <|endoftext|>,1,3,3,3,Ko,1425
-272,1,9,How does the move of Maxim Gorky to the New York Rangers help the situation? <|endoftext|>,1,3,3,3,Ko,1425
-273,3,13,How does he feel about leaving Edmonton? <|endoftext|>,1,3,3,3,Ko,1425
-274,1,14,How does the coach of the Los Angeles Kings feel about the move? <|endoftext|>,1,3,3,3,Ko,1425
-275,14,15,How does Hasek feel about being traded? <|endoftext|>,1,3,3,2,Ko,1425
-276,13,16,How does Hasek feel about Fuhr’s departure? <|endoftext|>,1,1,1,1,Ko,1425
+220,1,2,"How did the apology by his estranged wife, Winnie, turn out? ",1,3,1,1,Ko,1419
+221,4,5,What did the second letter express? ,1,1,1,1,Ko,1419
+222,1,6,What did President Nelson Mandela say about the apology? ,1,1,1,1,Ko,1419
+223,6,7,What does he say about her position in the government? ,1,1,1,1,Ko,1419
+224,7,8,What does the statement imply for the ministers? ,1,1,1,1,Ko,1419
+225,1,10,What is the background of Winnie Mandela? ,1,1,1,1,Ko,1419
+226,13,14,What happened in the past that would make their marriage to be in jeopardy? ,1,1,1,1,Ko,1419
+227,14,15,What happened to the other three people? ,1,3,2,3,Ko,1419
+228,15,16,What happened to the other victim? ,1,3,1,1,Ko,1419
+229,16,17,What happened after her release? ,No,skipped,skipped,skipped,Ko,1419
+230,1,2,What happened to the three firefighters? ,1,3,1,1,Ko,1421
+231,1,3,Who was harmed by the fire? ,1,3,1,1,Ko,1421
+232,1,4,How does this tragedy impact the firefighters on the ground? ,1,2,1,2,Ko,1421
+233,4,6,What other unusual circumstances have happened recently in the fire department? ,1,3,3,3,Ko,1421
+234,1,7,What happened before the three firefighters died? ,1,1,1,1,Ko,1421
+235,1,8,What happened when the stairs collapsed? ,1,1,1,1,Ko,1421
+236,8,9,What happened to the firefighters trapped in the recreation room? ,1,1,1,1,Ko,1421
+237,10,11,What happened to other teams? ,1,1,2,3,Ko,1421
+238,1,14,What is being done to find out the cause of the fire? ,1,1,2,2,Ko,1421
+239,14,15,Who were the people killed? ,1,3,1,2,Ko,1421
+240,1,2,Who made that threat? ,1,1,1,1,Ko,1422
+241,1,4,What is the situation in the northwest part of the country? ,1,1,1,1,Ko,1422
+242,2,7,What did Akashi have to say about Ljubijankic's warning? ,1,3,3,2,Ko,1422
+243,9,10,Why did the U.N. not send a convoy? ,1,1,1,1,Ko,1422
+244,11,12,How much aid does the U.N. have access to? ,1,1,1,2,Ko,1422
+245,12,13,What is the situation inside Croatia itself? ,1,3,1,1,Ko,1422
+246,13,14,How are the U.N. officials feeling about the situation? ,1,1,1,1,Ko,1422
+247,13,15,What are U.N. officials saying about the food shortages in Bihac? ,1,1,1,1,Ko,1422
+248,17,18,Why have there been no overflights of food? ,1,1,2,2,Ko,1422
+249,19,20,What does he think the people would feel if they saw this happen? ,1,3,1,1,Ko,1422
+250,2,3,What is the working group's concern with new policies? ,1,2,1,1,Ko,1423
+251,2,4,What does the report say about the restrictions on freedom of thought? ,1,3,3,3,Ko,1423
+252,1,5,What is the purpose of the U.N. Human Rights Ombudsman's visit? ,1,3,3,3,Ko,1423
+253,5,6,How was this unique visit to Vietnam received by the human rights community in Vietnam? ,1,3,3,2,Ko,1423
+254,5,7,What did the U.N. think of the Vietnam visit? ,1,3,3,2,Ko,1423
+255,7,8,What was prohibited from visiting the pre-trial detention centers? ,1,3,1,1,Ko,1423
+256,8,9,Why was there a lack of information about the facilities? ,1,3,1,1,Ko,1423
+257,9,10,What does lack of transparency do to the detainees? ,1,3,1,1,Ko,1423
+258,11,12,What did the prisoners say about their experiences at the three camps? ,1,1,1,1,Ko,1423
+259,2,13,What else did the report criticize? ,1,1,1,1,Ko,1423
+260,1,3,Who was killed in the fire? ,1,3,1,1,Ko,1424
+261,4,5,Who was the deceased firefighter? ,1,1,1,1,Ko,1424
+262,1,7,What happened while they were trying to save the three colleagues? ,1,3,1,1,Ko,1424
+263,1,8,What happened in the house? ,1,1,1,1,Ko,1424
+264,1,10,What else made the situation worse? ,1,1,2,3,Ko,1424
+265,14,15,Who were the people killed? ,1,3,1,2,Ko,1424
+266,15,16,Who were the people killed? ,1,1,1,1,Ko,1424
+267,16,17,What was Conroy like? ,1,1,1,1,Ko,1424
+268,18,19,What was the smell like? ,1,3,3,3,Ko,1424
+269,1,20,How far away were the other two homes? ,1,1,2,3,Ko,1424
+270,5,7,How does Chet feel about playing for the Sabres? ,1,3,3,3,Ko,1425
+271,1,8,How did the Los Angeles Kings qualify for the playoffs? ,1,3,3,3,Ko,1425
+272,1,9,How does the move of Maxim Gorky to the New York Rangers help the situation? ,1,3,3,3,Ko,1425
+273,3,13,How does he feel about leaving Edmonton? ,1,3,3,3,Ko,1425
+274,1,14,How does the coach of the Los Angeles Kings feel about the move? ,1,3,3,3,Ko,1425
+275,14,15,How does Hasek feel about being traded? ,1,3,3,2,Ko,1425
+276,13,16,How does Hasek feel about Fuhr’s departure? ,1,1,1,1,Ko,1425
 277,1,18,What is the story behind the acquisition of defencemen Alexei Zhitnik and Charlie Huddy?,1,3,1,1,Ko,1425
-278,1,19,What does Stauber expect from Zhitnik? <|endoftext|>,1,3,1,1,Ko,1425
-279,1,20,How has Boucher been faring after he was dealt? <|endoftext|>,1,3,1,1,Ko,1425
-280,1,2,How does the European Union feel about Canada's rejection of its offer? <|endoftext|>,1,3,3,2,Ko,1427
-281,4,5,How did other countries respond? <|endoftext|>,1,3,1,1,Ko,1427
-282,5,6,What did Bonino have to say about that? <|endoftext|>,1,1,1,1,Ko,1427
-283,6,7,What does she say about this precedent? <|endoftext|>,1,1,2,3,Ko,1427
-284,7,8,What else did Bonino say about the situation? <|endoftext|>,1,1,1,1,Ko,1427
-285,1,9,What will she ask the EU? <|endoftext|>,1,1,1,1,Ko,1427
-286,3,10,What was the catch limit in the North Atlantic Fisheries Organization? <|endoftext|>,1,1,1,1,Ko,1427
-287,2,11,What does the EU representative think about the issue? <|endoftext|>,1,1,1,1,Ko,1427
-288,11,12,What does Bonino believe about what Canada says? <|endoftext|>,1,1,1,1,Ko,1427
-289,4,13,How much did Canada allot to NAFO in the vote? <|endoftext|>,1,3,1,1,Ko,1427
-290,1,2,Who was best actor for the film? <|endoftext|>,1,1,2,2,Ko,1428
-291,4,5,What other movies have received 13 nominations? <|endoftext|>,1,3,1,1,Ko,1428
-292,5,6,What other Academy Awards did 'Ben Hur' win? <|endoftext|>,1,3,1,1,Ko,1428
-293,6,9,Which actors were nominated for best supporting actor? <|endoftext|>,1,3,3,3,Ko,1428
-294,11,12,How long has Travolta been nominated? <|endoftext|>,1,3,1,1,Ko,1428
-295,12,13,How long had it been since he received a nomination? <|endoftext|>,1,3,1,1,Ko,1428
-296,1,16,How does the actor feel about winning? <|endoftext|>,1,1,2,3,Ko,1428
-297,16,17,How does that change in attitude affect him now? <|endoftext|>,1,3,3,3,Ko,1428
-298,2,19,Who else got nominated? <|endoftext|>,1,1,1,1,Ko,1428
-299,19,20,What role will Jodie Foster play in the new movie 'Nell'? <|endoftext|>,1,3,1,1,Ko,1428
-300,1,2,Who made the threat? <|endoftext|>,1,1,1,1,Ko,1429
-301,4,5,What happened in the northwest? <|endoftext|>,1,1,1,1,Ko,1429
-302,2,6,What did another representative from the United Nations say? <|endoftext|>,1,1,1,1,Ko,1429
-303,6,7,What else was reported around Bihac? <|endoftext|>,1,3,1,1,Ko,1429
+278,1,19,What does Stauber expect from Zhitnik? ,1,3,1,1,Ko,1425
+279,1,20,How has Boucher been faring after he was dealt? ,1,3,1,1,Ko,1425
+280,1,2,How does the European Union feel about Canada's rejection of its offer? ,1,3,3,2,Ko,1427
+281,4,5,How did other countries respond? ,1,3,1,1,Ko,1427
+282,5,6,What did Bonino have to say about that? ,1,1,1,1,Ko,1427
+283,6,7,What does she say about this precedent? ,1,1,2,3,Ko,1427
+284,7,8,What else did Bonino say about the situation? ,1,1,1,1,Ko,1427
+285,1,9,What will she ask the EU? ,1,1,1,1,Ko,1427
+286,3,10,What was the catch limit in the North Atlantic Fisheries Organization? ,1,1,1,1,Ko,1427
+287,2,11,What does the EU representative think about the issue? ,1,1,1,1,Ko,1427
+288,11,12,What does Bonino believe about what Canada says? ,1,1,1,1,Ko,1427
+289,4,13,How much did Canada allot to NAFO in the vote? ,1,3,1,1,Ko,1427
+290,1,2,Who was best actor for the film? ,1,1,2,2,Ko,1428
+291,4,5,What other movies have received 13 nominations? ,1,3,1,1,Ko,1428
+292,5,6,What other Academy Awards did 'Ben Hur' win? ,1,3,1,1,Ko,1428
+293,6,9,Which actors were nominated for best supporting actor? ,1,3,3,3,Ko,1428
+294,11,12,How long has Travolta been nominated? ,1,3,1,1,Ko,1428
+295,12,13,How long had it been since he received a nomination? ,1,3,1,1,Ko,1428
+296,1,16,How does the actor feel about winning? ,1,1,2,3,Ko,1428
+297,16,17,How does that change in attitude affect him now? ,1,3,3,3,Ko,1428
+298,2,19,Who else got nominated? ,1,1,1,1,Ko,1428
+299,19,20,What role will Jodie Foster play in the new movie 'Nell'? ,1,3,1,1,Ko,1428
+300,1,2,Who made the threat? ,1,1,1,1,Ko,1429
+301,4,5,What happened in the northwest? ,1,1,1,1,Ko,1429
+302,2,6,What did another representative from the United Nations say? ,1,1,1,1,Ko,1429
+303,6,7,What else was reported around Bihac? ,1,3,1,1,Ko,1429
 304,8,9,What did the Serb commander Gen. Ratko Mladic have to say in his letter to,No,skipped,skipped,skipped,Ko,1429
-305,8,10,What other details did the Associated Press have about the government offensive? <|endoftext|>,1,3,3,3,Ko,1429
-306,13,14,Why is Karadzic's plan important? <|endoftext|>,1,3,1,1,Ko,1429
-307,14,15,What is being done by non-governmental organizations to help the civilians of Bosnia? <|endoftext|>,1,3,3,3,Ko,1429
+305,8,10,What other details did the Associated Press have about the government offensive? ,1,3,3,3,Ko,1429
+306,13,14,Why is Karadzic's plan important? ,1,3,1,1,Ko,1429
+307,14,15,What is being done by non-governmental organizations to help the civilians of Bosnia? ,1,3,3,3,Ko,1429
 308,16,18,"What arrangement did the rebel leader, Fikret Janske, make with the government?",1,1,2,2,Ko,1429
-309,19,20,Will this lead to developments that would be beneficial to the peace process? <|endoftext|>,1,1,1,1,Ko,1429
-310,1,2,What happened after the Serb war criminal was arrested? <|endoftext|>,1,1,1,1,Ko,1430
+309,19,20,Will this lead to developments that would be beneficial to the peace process? ,1,1,1,1,Ko,1429
+310,1,2,What happened after the Serb war criminal was arrested? ,1,1,1,1,Ko,1430
 311,1,3,What is the history of the man named by the police as a suspected Serb war criminal?,1,3,1,1,Ko,1430
-312,13,5,What is expected to happen in the first war crimes trial in Germany? <|endoftext|>,No,skipped,skipped,skipped,Ko,1430
+312,13,5,What is expected to happen in the first war crimes trial in Germany? ,No,skipped,skipped,skipped,Ko,1430
 313,6,7,What happened to the people who were accused of plundering and setting fire to Muslim houses?,1,3,1,1,Ko,1430
-314,1,9,How many of the 21 suspects are in custody? <|endoftext|>,1,1,2,3,Ko,1430
-315,1,10,Where was he arrested? <|endoftext|>,1,3,1,1,Ko,1430
-316,10,11,What is the reason for the detention of Dusan Tadic? <|endoftext|>,1,1,1,1,Ko,1430
-317,10,12,What is the next step for the German suspect? <|endoftext|>,1,1,1,1,Ko,1430
-318,1,13,How many countries are involved in the investigation? <|endoftext|>,1,2,1,1,Ko,1430
-319,15,16,How many have fled to Germany? <|endoftext|>,1,2,1,1,Ko,1430
-320,1,3,What else did Rabin say? <|endoftext|>,1,1,1,1,Ko,1431
-321,4,5,What has Israel done regarding the bombing attacks? <|endoftext|>,1,3,1,1,Ko,1431
-322,1,6,What does he expect from Arafat? <|endoftext|>,1,1,1,1,Ko,1431
-323,10,11,What does the recent attack on the West Bank and Gaza Strip signify? <|endoftext|>,1,2,3,2,Ko,1431
-324,11,12,What is the effect of separation? <|endoftext|>,1,1,1,1,Ko,1431
-325,1,13,What will Prime Minister Yitzhak Rabin do next? <|endoftext|>,1,1,1,1,Ko,1431
-326,1,16,What has Yitzhak Rabin said about his plans to end the violence? <|endoftext|>,1,2,1,1,Ko,1431
-327,17,18,What other examples did the PLO use to justify the detention of an Islamic militant? <|endoftext|>,1,3,1,1,Ko,1431
-328,1,19,What is Israel hopeful will happen in the near future? <|endoftext|>,1,1,1,1,Ko,1431
-329,19,20,What does Peres think the future holds? <|endoftext|>,1,1,1,1,Ko,1431
-330,1,2,Why did the German publisher decide to scrap publication of 'An Eye for an Eye'? <|endoftext|>,1,1,1,1,Ko,1432
+314,1,9,How many of the 21 suspects are in custody? ,1,1,2,3,Ko,1430
+315,1,10,Where was he arrested? ,1,3,1,1,Ko,1430
+316,10,11,What is the reason for the detention of Dusan Tadic? ,1,1,1,1,Ko,1430
+317,10,12,What is the next step for the German suspect? ,1,1,1,1,Ko,1430
+318,1,13,How many countries are involved in the investigation? ,1,2,1,1,Ko,1430
+319,15,16,How many have fled to Germany? ,1,2,1,1,Ko,1430
+320,1,3,What else did Rabin say? ,1,1,1,1,Ko,1431
+321,4,5,What has Israel done regarding the bombing attacks? ,1,3,1,1,Ko,1431
+322,1,6,What does he expect from Arafat? ,1,1,1,1,Ko,1431
+323,10,11,What does the recent attack on the West Bank and Gaza Strip signify? ,1,2,3,2,Ko,1431
+324,11,12,What is the effect of separation? ,1,1,1,1,Ko,1431
+325,1,13,What will Prime Minister Yitzhak Rabin do next? ,1,1,1,1,Ko,1431
+326,1,16,What has Yitzhak Rabin said about his plans to end the violence? ,1,2,1,1,Ko,1431
+327,17,18,What other examples did the PLO use to justify the detention of an Islamic militant? ,1,3,1,1,Ko,1431
+328,1,19,What is Israel hopeful will happen in the near future? ,1,1,1,1,Ko,1431
+329,19,20,What does Peres think the future holds? ,1,1,1,1,Ko,1431
+330,1,2,Why did the German publisher decide to scrap publication of 'An Eye for an Eye'? ,1,1,1,1,Ko,1432
 331,2,3,What was the reaction of German authorities when they found out that book was not appropriate for German readers?,1,1,3,3,Ko,1432
-332,3,4,What do the people in Germany think about the book? <|endoftext|>,1,2,1,1,Ko,1432
-333,4,5,Why do Germans feel that it is understandable considering the evil the Nazis unleashed? <|endoftext|>,1,3,1,1,Ko,1432
-334,6,7,What did Giordano say about the book? <|endoftext|>,1,1,1,1,Ko,1432
-335,9,10,How many died as a result of typhus? <|endoftext|>,1,3,1,1,Ko,1432
+332,3,4,What do the people in Germany think about the book? ,1,2,1,1,Ko,1432
+333,4,5,Why do Germans feel that it is understandable considering the evil the Nazis unleashed? ,1,3,1,1,Ko,1432
+334,6,7,What did Giordano say about the book? ,1,1,1,1,Ko,1432
+335,9,10,How many died as a result of typhus? ,1,3,1,1,Ko,1432
 336,8,11,"What did John Sack do that justified his claim that 60,000 to 80,000 ethnic Germans died",1,3,1,1,Ko,1432
-337,17,18,What did Klaus Stadler think about self-censorship? <|endoftext|>,1,1,1,1,Ko,1432
-338,16,19,What was the main objection that the author raised in his review? <|endoftext|>,1,3,1,2,Ko,1432
+337,17,18,What did Klaus Stadler think about self-censorship? ,1,1,1,1,Ko,1432
+338,16,19,What was the main objection that the author raised in his review? ,1,3,1,2,Ko,1432
 339,2,20,What was the reaction from the German public to the decision to scrap publication of 'An Eye for an,No,skipped,skipped,skipped,Ko,1432
-340,1,2,What does Terence Crawford think about this fight? <|endoftext|>,1,3,3,2,Ko,1433
-341,5,6,What does King say about the situation? <|endoftext|>,1,3,1,1,Ko,1433
-342,8,9,Where will Foreman fight when he defends his heavyweight championship? <|endoftext|>,1,1,1,1,Ko,1433
-343,1,10,What did Foreman have to say about the news about Mike Tyson? <|endoftext|>,1,1,2,2,Ko,1433
-344,1,13,What if Foreman beats Tyson? <|endoftext|>,1,3,1,1,Ko,1433
-345,13,14,What would happen if they got away from King? <|endoftext|>,1,1,1,1,Ko,1433
-346,13,16,What does Foreman have to do? <|endoftext|>,1,1,1,1,Ko,1433
-347,1,17,When did George Foreman become the oldest world heavyweight champion? <|endoftext|>,1,1,2,2,Ko,1433
-348,1,18,How did George Foreman become the world champion? <|endoftext|>,1,3,3,2,Ko,1433
-349,17,19,What does having a 10th-round knockout of Michael Moorer mean for Foreman? <|endoftext|>,1,2,1,1,Ko,1433
-350,1,2,Why is it special for Johnson? <|endoftext|>,1,1,1,1,Ko,1434
-351,1,3,Who was the runner up of the 110-meter hurdles? <|endoftext|>,1,1,1,1,Ko,1434
-352,3,4,What is the world record? <|endoftext|>,1,2,1,3,Ko,1434
-353,1,5,How does this compare to other records? <|endoftext|>,1,1,1,1,Ko,1434
-354,1,6,How does this compare to previous records? <|endoftext|>,1,1,1,1,Ko,1434
-355,1,7,What is his background? <|endoftext|>,1,1,1,1,Ko,1434
-356,9,10,How much does that make Sergei Bubka? <|endoftext|>,1,3,1,1,Ko,1434
-357,9,11,How did Maxim Tarasov do in the meet's biggest surprise? <|endoftext|>,1,3,1,1,Ko,1434
-358,2,12,How well do other sprinters perform? <|endoftext|>,1,1,1,3,Ko,1434
-359,12,13,How much of a gap does that leave between her and the world record? <|endoftext|>,1,3,1,1,Ko,1434
-360,1,4,What is one of the issues that needs to be solved? <|endoftext|>,1,2,1,1,Ko,1435
-361,1,5,"How optimistic is Spring about this, in light of the progress being made? <|endoftext|>",1,1,2,2,Ko,1435
-362,7,8,What did he say after the important obstacles overcome? <|endoftext|>,1,1,1,1,Ko,1435
-363,1,11,What obstacles prevented the two governments from reaching a shared vision of a Northern Ireland political settlement? <|endoftext|>,1,1,1,1,Ko,1435
-364,1,12,What is the stance of the British government towards the future of the United Kingdom? <|endoftext|>,1,2,1,1,Ko,1435
-365,12,13,What would the British-Irish document actually involve? <|endoftext|>,1,2,1,1,Ko,1435
-366,12,14,How has British Prime Minister David Cameron tried to quell the fears of the Protestant politicians? <|endoftext|>,1,3,3,2,Ko,1435
-367,14,15,What has happened this week to illustrate the importance of British-Irish support? <|endoftext|>,1,3,1,3,Ko,1435
-368,15,16,What did the Ulster Unionist Party leader say about the negotiations? <|endoftext|>,1,1,1,1,Ko,1435
-369,1,17,What do the Ulster Unionists want? <|endoftext|>,1,3,3,3,Ko,1435
-370,1,4,What else did Yitzhak Rabin say? <|endoftext|>,1,1,1,1,Ko,1436
-371,4,5,What is the Hamas and Islamic Jihad group's involvement? <|endoftext|>,1,1,1,1,Ko,1436
-372,1,7,What does he expect from Arafat? <|endoftext|>,1,1,1,1,Ko,1436
-373,7,8,What obstacle is Palestine facing? <|endoftext|>,1,2,1,3,Ko,1436
-374,8,9,What does he believe will stop the two-state solution from being implemented? <|endoftext|>,1,3,1,1,Ko,1436
-375,1,10,What is the extent of the terrorist activity in the West Bank and Gaza Strip? <|endoftext|>,1,2,2,2,Ko,1436
-376,10,11,Who was in possession of the explosives? <|endoftext|>,1,1,1,1,Ko,1436
-377,10,12,What did Israel Radio say about the discovery? <|endoftext|>,1,1,1,1,Ko,1436
-378,14,15,What does the Israeli public want? <|endoftext|>,1,1,1,1,Ko,1436
-379,16,17,What is the consequence of view of some Israelis that would lead to Palestinian independence from Israel? <|endoftext|>,1,1,1,1,Ko,1436
+340,1,2,What does Terence Crawford think about this fight? ,1,3,3,2,Ko,1433
+341,5,6,What does King say about the situation? ,1,3,1,1,Ko,1433
+342,8,9,Where will Foreman fight when he defends his heavyweight championship? ,1,1,1,1,Ko,1433
+343,1,10,What did Foreman have to say about the news about Mike Tyson? ,1,1,2,2,Ko,1433
+344,1,13,What if Foreman beats Tyson? ,1,3,1,1,Ko,1433
+345,13,14,What would happen if they got away from King? ,1,1,1,1,Ko,1433
+346,13,16,What does Foreman have to do? ,1,1,1,1,Ko,1433
+347,1,17,When did George Foreman become the oldest world heavyweight champion? ,1,1,2,2,Ko,1433
+348,1,18,How did George Foreman become the world champion? ,1,3,3,2,Ko,1433
+349,17,19,What does having a 10th-round knockout of Michael Moorer mean for Foreman? ,1,2,1,1,Ko,1433
+350,1,2,Why is it special for Johnson? ,1,1,1,1,Ko,1434
+351,1,3,Who was the runner up of the 110-meter hurdles? ,1,1,1,1,Ko,1434
+352,3,4,What is the world record? ,1,2,1,3,Ko,1434
+353,1,5,How does this compare to other records? ,1,1,1,1,Ko,1434
+354,1,6,How does this compare to previous records? ,1,1,1,1,Ko,1434
+355,1,7,What is his background? ,1,1,1,1,Ko,1434
+356,9,10,How much does that make Sergei Bubka? ,1,3,1,1,Ko,1434
+357,9,11,How did Maxim Tarasov do in the meet's biggest surprise? ,1,3,1,1,Ko,1434
+358,2,12,How well do other sprinters perform? ,1,1,1,3,Ko,1434
+359,12,13,How much of a gap does that leave between her and the world record? ,1,3,1,1,Ko,1434
+360,1,4,What is one of the issues that needs to be solved? ,1,2,1,1,Ko,1435
+361,1,5,"How optimistic is Spring about this, in light of the progress being made? ",1,1,2,2,Ko,1435
+362,7,8,What did he say after the important obstacles overcome? ,1,1,1,1,Ko,1435
+363,1,11,What obstacles prevented the two governments from reaching a shared vision of a Northern Ireland political settlement? ,1,1,1,1,Ko,1435
+364,1,12,What is the stance of the British government towards the future of the United Kingdom? ,1,2,1,1,Ko,1435
+365,12,13,What would the British-Irish document actually involve? ,1,2,1,1,Ko,1435
+366,12,14,How has British Prime Minister David Cameron tried to quell the fears of the Protestant politicians? ,1,3,3,2,Ko,1435
+367,14,15,What has happened this week to illustrate the importance of British-Irish support? ,1,3,1,3,Ko,1435
+368,15,16,What did the Ulster Unionist Party leader say about the negotiations? ,1,1,1,1,Ko,1435
+369,1,17,What do the Ulster Unionists want? ,1,3,3,3,Ko,1435
+370,1,4,What else did Yitzhak Rabin say? ,1,1,1,1,Ko,1436
+371,4,5,What is the Hamas and Islamic Jihad group's involvement? ,1,1,1,1,Ko,1436
+372,1,7,What does he expect from Arafat? ,1,1,1,1,Ko,1436
+373,7,8,What obstacle is Palestine facing? ,1,2,1,3,Ko,1436
+374,8,9,What does he believe will stop the two-state solution from being implemented? ,1,3,1,1,Ko,1436
+375,1,10,What is the extent of the terrorist activity in the West Bank and Gaza Strip? ,1,2,2,2,Ko,1436
+376,10,11,Who was in possession of the explosives? ,1,1,1,1,Ko,1436
+377,10,12,What did Israel Radio say about the discovery? ,1,1,1,1,Ko,1436
+378,14,15,What does the Israeli public want? ,1,1,1,1,Ko,1436
+379,16,17,What is the consequence of view of some Israelis that would lead to Palestinian independence from Israel? ,1,1,1,1,Ko,1436
 380,1,2,Will this be a panacea for all,1,1,1,1,Ko,1437
-381,3,4,What did the soldiers do to the rebels? <|endoftext|>,1,1,1,1,Ko,1437
-382,1,5,What did Zedillo have to say about his plans for the country? <|endoftext|>,1,3,1,1,Ko,1437
-383,5,7,What happened in the previous elections? <|endoftext|>,1,2,1,3,Ko,1437
-384,8,9,How are people reacting to the change in government? <|endoftext|>,1,1,1,1,Ko,1437
-385,11,12,What does the exit of the governor signify? <|endoftext|>,1,1,1,1,Ko,1437
-386,14,15,What did those regional PRI dinosaurs that challenged the federal solution of an election dispute do? <|endoftext|>,1,1,1,1,Ko,1437
-387,15,16,What did he do to rebuff the accusations? <|endoftext|>,1,1,1,1,Ko,1437
-388,18,19,What does Baer believe his solution will be? <|endoftext|>,1,1,1,2,Ko,1437
-389,7,20,What did people think of his administration? <|endoftext|>,1,1,1,1,Ko,1437
-390,1,2,What is the goal of this plan? <|endoftext|>,1,1,1,1,Ko,1438
-391,1,4,When will the plan be put to the people? <|endoftext|>,1,2,1,1,Ko,1438
-392,1,5,What sanctions would be lifted if the plan is approved? <|endoftext|>,1,1,1,1,Ko,1438
-393,1,7,How long would the sanctions be lifted? <|endoftext|>,1,1,1,1,Ko,1438
-394,1,8,Will the proposal affect NATO membership? <|endoftext|>,1,1,3,2,Ko,1438
-395,9,10,What will become of Charles Thomas? <|endoftext|>,1,1,1,1,Ko,1438
-396,1,12,What is the extent of the deal that President Clinton has approved? <|endoftext|>,1,2,1,1,Ko,1438
-397,12,13,What did the U.S. official find out? <|endoftext|>,1,1,1,1,Ko,1438
-398,1,15,What is the status of the negotiations? <|endoftext|>,1,1,1,1,Ko,1438
-399,4,18,What does the official mean by renege? <|endoftext|>,1,3,3,2,Ko,1438
-400,2,3,How does the experience make the crew members feel? <|endoftext|>,1,2,1,1,Ko,908
-401,5,7,What is the cause of the decrease? <|endoftext|>,1,1,1,1,Ko,908
-402,7,8,Why is the reason for the drop unclear? <|endoftext|>,1,1,1,1,Ko,908
-403,8,9,What is predicted to happen to the population of Sardines? <|endoftext|>,1,1,1,1,Ko,908
-404,8,10,What is causing the population to decline so much? <|endoftext|>,1,1,1,1,Ko,908
-405,5,12,How do scientists explain the decline of the fish population? <|endoftext|>,1,3,1,1,Ko,908
-406,4,13,What is the cause of the sardine crash? <|endoftext|>,1,2,1,1,Ko,908
-407,13,15,What is affecting the population? <|endoftext|>,1,1,1,1,Ko,908
-408,8,16,What do other conservation groups think about the situation? <|endoftext|>,1,1,2,2,Ko,908
-409,8,18,What makes them so volatile? <|endoftext|>,1,1,1,1,Ko,908
-410,5,6,What did the researchers do to determine the existence of the unknown pharaohs? <|endoftext|>,1,1,1,1,Ko,910
-411,2,7,What does the name of the tomb mean? <|endoftext|>,1,3,1,1,Ko,910
-412,1,9,How did people know they had found a tomb? <|endoftext|>,1,3,1,1,Ko,910
-413,5,10,What about the other kings that were not thought to be of the same dynasty? <|endoftext|>,1,3,3,2,Ko,910
-414,2,13,What does preliminary work on the skeletal remains of the pharaoh suggest? <|endoftext|>,1,1,2,2,Ko,910
-415,1,14,What did the tomb contain? <|endoftext|>,1,1,1,1,Ko,910
-416,1,16,When did the University of Pennsylvania announce the discovery? <|endoftext|>,1,3,1,1,Ko,910
-417,3,17,When did the team first discover the tomb of a pharaoh? <|endoftext|>,1,1,1,1,Ko,910
-418,17,19,When did the archaeologists find the tomb of Sobekhotep? <|endoftext|>,1,3,1,1,Ko,910
-419,19,20,What about the tombs of other apparent rulers? <|endoftext|>,1,1,2,2,Ko,910
-420,1,2,How much detail is contained in this report? <|endoftext|>,1,1,2,1,Ko,911
-421,2,3,What technical details are contained in this report? <|endoftext|>,1,3,1,1,Ko,911
-422,3,4,What did Johnson do to get to grips with the information? <|endoftext|>,1,1,1,1,Ko,911
-423,6,7,How many people has the internet commented on the haiku? <|endoftext|>,No,skipped,skipped,skipped,Ko,911
-424,4,10,What did he do to create the haiku? <|endoftext|>,1,1,1,1,Ko,911
-425,10,11,What is the haiku for? <|endoftext|>,1,2,1,1,Ko,911
-426,11,12,What does the haiku describe? <|endoftext|>,1,1,1,1,Ko,911
-427,10,13,How did Johnson come to learn about this type of poetry? <|endoftext|>,1,3,1,1,Ko,911
-428,15,16,What made the exercise appealing? <|endoftext|>,1,3,2,1,Ko,911
-429,18,19,What was Johnson hoping for when he wrote the haiku? <|endoftext|>,1,2,1,1,Ko,911
-430,2,3,What did the Willits officials decide to do? <|endoftext|>,1,2,1,1,Ko,912
-431,2,4,What is the limit per household per day? <|endoftext|>,1,1,2,1,Ko,912
-432,9,10,How much rain is coming? <|endoftext|>,1,2,1,1,Ko,912
-433,8,11,What if the situation gets worse? <|endoftext|>,1,1,1,1,Ko,912
-434,11,12,How will the distribution of the water in the state be distributed? <|endoftext|>,No,skipped,skipped,skipped,Ko,912
-435,11,13,How will the water agencies in California manage the shortages? <|endoftext|>,1,1,1,1,Ko,912
-436,8,15,What crops will be grown this year if the drought does not abate? <|endoftext|>,1,2,2,1,Ko,912
-437,15,16,What about other water users besides the Irrigation District? <|endoftext|>,1,1,1,1,Ko,912
-438,8,18,How do people think about the situation? <|endoftext|>,No,skipped,skipped,skipped,Ko,912
-439,18,19,How much are their reservoirs? <|endoftext|>,No,skipped,skipped,skipped,Ko,912
-440,1,3,How does that wealth distribution compare to other countries? <|endoftext|>,1,3,3,2,Ko,913
-441,1,4,When will Oxfam's report be made public? <|endoftext|>,1,3,3,2,Ko,913
-442,4,5,What is the main objective of The World Economic Forum? <|endoftext|>,1,1,1,1,Ko,913
-443,1,6,What does Oxfam say about the wealth gap? <|endoftext|>,1,1,1,1,Ko,913
-444,8,9,How much is the wealth of the 1 percent of people? <|endoftext|>,No,skipped,skipped,skipped,Ko,913
-445,1,10,How many people are wealthy? <|endoftext|>,1,2,1,1,Ko,913
-446,14,15,How has the amount of income received by the wealthiest 1 percent changed over time? <|endoftext|>,1,1,1,1,Ko,913
-447,1,16,How much does Oxfam believe that the 1 percent control of the wealth? <|endoftext|>,No,skipped,skipped,skipped,Ko,913
-448,17,18,What does Oxfam think the appropriate policies should be? <|endoftext|>,1,3,1,1,Ko,913
-449,18,19,What happens when the rules are made more in favor of the wealthy classes? <|endoftext|>,1,1,1,2,Ko,913
-450,1,2,How did the court rule on the case? <|endoftext|>,1,1,1,1,Ko,914
-451,2,3,What was the case before the panel? <|endoftext|>,1,1,1,1,Ko,914
-452,1,7,What other legal consequences do the ruling have? <|endoftext|>,No,skipped,skipped,skipped,Ko,914
-453,7,8,What is an example of such a law challenged? <|endoftext|>,No,skipped,skipped,skipped,Ko,914
-454,1,9,What does the judge say about laws that target gays? <|endoftext|>,1,1,1,1,Ko,914
-455,15,16,What was the case that got GlaxoSmithKline to file a lawsuit? <|endoftext|>,1,1,1,1,Ko,914
-456,16,17,What was the outcome of the case? <|endoftext|>,1,3,1,1,Ko,914
-457,15,18,How did GlaxoSmithKline react to the ruling? <|endoftext|>,1,3,1,1,Ko,914
-458,17,19,What did SmithKline say about the defendant? <|endoftext|>,1,3,1,2,Ko,914
-459,17,20,What did the lawyer provide for the strike? <|endoftext|>,1,1,1,1,Ko,914
-460,2,6,What do experts suggest? <|endoftext|>,1,1,1,1,Ko,915
-461,2,8,What is the suggested response? <|endoftext|>,1,1,1,1,Ko,915
+381,3,4,What did the soldiers do to the rebels? ,1,1,1,1,Ko,1437
+382,1,5,What did Zedillo have to say about his plans for the country? ,1,3,1,1,Ko,1437
+383,5,7,What happened in the previous elections? ,1,2,1,3,Ko,1437
+384,8,9,How are people reacting to the change in government? ,1,1,1,1,Ko,1437
+385,11,12,What does the exit of the governor signify? ,1,1,1,1,Ko,1437
+386,14,15,What did those regional PRI dinosaurs that challenged the federal solution of an election dispute do? ,1,1,1,1,Ko,1437
+387,15,16,What did he do to rebuff the accusations? ,1,1,1,1,Ko,1437
+388,18,19,What does Baer believe his solution will be? ,1,1,1,2,Ko,1437
+389,7,20,What did people think of his administration? ,1,1,1,1,Ko,1437
+390,1,2,What is the goal of this plan? ,1,1,1,1,Ko,1438
+391,1,4,When will the plan be put to the people? ,1,2,1,1,Ko,1438
+392,1,5,What sanctions would be lifted if the plan is approved? ,1,1,1,1,Ko,1438
+393,1,7,How long would the sanctions be lifted? ,1,1,1,1,Ko,1438
+394,1,8,Will the proposal affect NATO membership? ,1,1,3,2,Ko,1438
+395,9,10,What will become of Charles Thomas? ,1,1,1,1,Ko,1438
+396,1,12,What is the extent of the deal that President Clinton has approved? ,1,2,1,1,Ko,1438
+397,12,13,What did the U.S. official find out? ,1,1,1,1,Ko,1438
+398,1,15,What is the status of the negotiations? ,1,1,1,1,Ko,1438
+399,4,18,What does the official mean by renege? ,1,3,3,2,Ko,1438
+400,2,3,How does the experience make the crew members feel? ,1,2,1,1,Ko,908
+401,5,7,What is the cause of the decrease? ,1,1,1,1,Ko,908
+402,7,8,Why is the reason for the drop unclear? ,1,1,1,1,Ko,908
+403,8,9,What is predicted to happen to the population of Sardines? ,1,1,1,1,Ko,908
+404,8,10,What is causing the population to decline so much? ,1,1,1,1,Ko,908
+405,5,12,How do scientists explain the decline of the fish population? ,1,3,1,1,Ko,908
+406,4,13,What is the cause of the sardine crash? ,1,2,1,1,Ko,908
+407,13,15,What is affecting the population? ,1,1,1,1,Ko,908
+408,8,16,What do other conservation groups think about the situation? ,1,1,2,2,Ko,908
+409,8,18,What makes them so volatile? ,1,1,1,1,Ko,908
+410,5,6,What did the researchers do to determine the existence of the unknown pharaohs? ,1,1,1,1,Ko,910
+411,2,7,What does the name of the tomb mean? ,1,3,1,1,Ko,910
+412,1,9,How did people know they had found a tomb? ,1,3,1,1,Ko,910
+413,5,10,What about the other kings that were not thought to be of the same dynasty? ,1,3,3,2,Ko,910
+414,2,13,What does preliminary work on the skeletal remains of the pharaoh suggest? ,1,1,2,2,Ko,910
+415,1,14,What did the tomb contain? ,1,1,1,1,Ko,910
+416,1,16,When did the University of Pennsylvania announce the discovery? ,1,3,1,1,Ko,910
+417,3,17,When did the team first discover the tomb of a pharaoh? ,1,1,1,1,Ko,910
+418,17,19,When did the archaeologists find the tomb of Sobekhotep? ,1,3,1,1,Ko,910
+419,19,20,What about the tombs of other apparent rulers? ,1,1,2,2,Ko,910
+420,1,2,How much detail is contained in this report? ,1,1,2,1,Ko,911
+421,2,3,What technical details are contained in this report? ,1,3,1,1,Ko,911
+422,3,4,What did Johnson do to get to grips with the information? ,1,1,1,1,Ko,911
+423,6,7,How many people has the internet commented on the haiku? ,No,skipped,skipped,skipped,Ko,911
+424,4,10,What did he do to create the haiku? ,1,1,1,1,Ko,911
+425,10,11,What is the haiku for? ,1,2,1,1,Ko,911
+426,11,12,What does the haiku describe? ,1,1,1,1,Ko,911
+427,10,13,How did Johnson come to learn about this type of poetry? ,1,3,1,1,Ko,911
+428,15,16,What made the exercise appealing? ,1,3,2,1,Ko,911
+429,18,19,What was Johnson hoping for when he wrote the haiku? ,1,2,1,1,Ko,911
+430,2,3,What did the Willits officials decide to do? ,1,2,1,1,Ko,912
+431,2,4,What is the limit per household per day? ,1,1,2,1,Ko,912
+432,9,10,How much rain is coming? ,1,2,1,1,Ko,912
+433,8,11,What if the situation gets worse? ,1,1,1,1,Ko,912
+434,11,12,How will the distribution of the water in the state be distributed? ,No,skipped,skipped,skipped,Ko,912
+435,11,13,How will the water agencies in California manage the shortages? ,1,1,1,1,Ko,912
+436,8,15,What crops will be grown this year if the drought does not abate? ,1,2,2,1,Ko,912
+437,15,16,What about other water users besides the Irrigation District? ,1,1,1,1,Ko,912
+438,8,18,How do people think about the situation? ,No,skipped,skipped,skipped,Ko,912
+439,18,19,How much are their reservoirs? ,No,skipped,skipped,skipped,Ko,912
+440,1,3,How does that wealth distribution compare to other countries? ,1,3,3,2,Ko,913
+441,1,4,When will Oxfam's report be made public? ,1,3,3,2,Ko,913
+442,4,5,What is the main objective of The World Economic Forum? ,1,1,1,1,Ko,913
+443,1,6,What does Oxfam say about the wealth gap? ,1,1,1,1,Ko,913
+444,8,9,How much is the wealth of the 1 percent of people? ,No,skipped,skipped,skipped,Ko,913
+445,1,10,How many people are wealthy? ,1,2,1,1,Ko,913
+446,14,15,How has the amount of income received by the wealthiest 1 percent changed over time? ,1,1,1,1,Ko,913
+447,1,16,How much does Oxfam believe that the 1 percent control of the wealth? ,No,skipped,skipped,skipped,Ko,913
+448,17,18,What does Oxfam think the appropriate policies should be? ,1,3,1,1,Ko,913
+449,18,19,What happens when the rules are made more in favor of the wealthy classes? ,1,1,1,2,Ko,913
+450,1,2,How did the court rule on the case? ,1,1,1,1,Ko,914
+451,2,3,What was the case before the panel? ,1,1,1,1,Ko,914
+452,1,7,What other legal consequences do the ruling have? ,No,skipped,skipped,skipped,Ko,914
+453,7,8,What is an example of such a law challenged? ,No,skipped,skipped,skipped,Ko,914
+454,1,9,What does the judge say about laws that target gays? ,1,1,1,1,Ko,914
+455,15,16,What was the case that got GlaxoSmithKline to file a lawsuit? ,1,1,1,1,Ko,914
+456,16,17,What was the outcome of the case? ,1,3,1,1,Ko,914
+457,15,18,How did GlaxoSmithKline react to the ruling? ,1,3,1,1,Ko,914
+458,17,19,What did SmithKline say about the defendant? ,1,3,1,2,Ko,914
+459,17,20,What did the lawyer provide for the strike? ,1,1,1,1,Ko,914
+460,2,6,What do experts suggest? ,1,1,1,1,Ko,915
+461,2,8,What is the suggested response? ,1,1,1,1,Ko,915
 462,9,10,What does Redman propose as an alternative to trying to make horticulture more relevant in a highly,No,skipped,skipped,skipped,Ko,915
-463,12,13,What is the answer to the question? <|endoftext|>,1,3,2,3,Ko,915
-464,13,14,What is horticulture? <|endoftext|>,1,1,1,1,Ko,915
-465,14,15,What do people think of horticulture according to the book? <|endoftext|>,1,1,3,1,Ko,915
-466,15,16,What other career options does Mary H. Meyer believe horticulture can provide? <|endoftext|>,1,1,1,1,Ko,915
-467,3,17,How common is this problem globally? <|endoftext|>,1,1,1,1,Ko,915
-468,17,18,What is England's problem? <|endoftext|>,1,1,1,1,Ko,915
+463,12,13,What is the answer to the question? ,1,3,2,3,Ko,915
+464,13,14,What is horticulture? ,1,1,1,1,Ko,915
+465,14,15,What do people think of horticulture according to the book? ,1,1,3,1,Ko,915
+466,15,16,What other career options does Mary H. Meyer believe horticulture can provide? ,1,1,1,1,Ko,915
+467,3,17,How common is this problem globally? ,1,1,1,1,Ko,915
+468,17,18,What is England's problem? ,1,1,1,1,Ko,915
 469,19,20,What is the direct impact of the trades leaving many people with little personal connection to the land?,1,3,1,1,Ko,915
-470,1,2,What is an example of his work exhibited? <|endoftext|>,No,skipped,skipped,skipped,Ko,916
-471,2,3,What are some of the self-portraits that are included in the exhibit? <|endoftext|>,1,1,1,1,Ko,916
-472,2,6,When will the exhibit be open to the public? <|endoftext|>,1,1,1,1,Ko,916
-473,6,7,Where did Warhol get the photos? <|endoftext|>,1,3,3,2,Ko,916
-474,2,12,What famous pieces were included in the exhibit? <|endoftext|>,1,1,1,1,Ko,916
-475,14,15,What are the details of the'screen tests'? <|endoftext|>,1,3,1,1,Ko,916
-476,8,16,What is unique about Warhol's work? <|endoftext|>,1,2,1,3,Ko,916
-477,17,18,What other self-portraits was Warhol shown in Dali? <|endoftext|>,1,3,3,2,Ko,916
-478,18,19,What did Warhol do instead? <|endoftext|>,1,3,3,2,Ko,916
-479,18,20,What else does the exhibit feature? <|endoftext|>,1,1,1,3,Ko,916
+470,1,2,What is an example of his work exhibited? ,No,skipped,skipped,skipped,Ko,916
+471,2,3,What are some of the self-portraits that are included in the exhibit? ,1,1,1,1,Ko,916
+472,2,6,When will the exhibit be open to the public? ,1,1,1,1,Ko,916
+473,6,7,Where did Warhol get the photos? ,1,3,3,2,Ko,916
+474,2,12,What famous pieces were included in the exhibit? ,1,1,1,1,Ko,916
+475,14,15,What are the details of the'screen tests'? ,1,3,1,1,Ko,916
+476,8,16,What is unique about Warhol's work? ,1,2,1,3,Ko,916
+477,17,18,What other self-portraits was Warhol shown in Dali? ,1,3,3,2,Ko,916
+478,18,19,What did Warhol do instead? ,1,3,3,2,Ko,916
+479,18,20,What else does the exhibit feature? ,1,1,1,3,Ko,916
 480,3,4,How did the researchers conclude that the honeybees became infected by the pollen-borne RNA virus?,1,2,1,1,Ko,918
-481,2,5,How much value is the agricultural industry of the United States? <|endoftext|>,No,skipped,skipped,skipped,Ko,918
-482,6,7,How much money does the food industry spend on beehives? <|endoftext|>,1,1,1,3,Ko,918
-483,2,10,What does the virus do? <|endoftext|>,1,1,1,1,Ko,918
-484,10,12,How do the resulting mutations affect the virus? <|endoftext|>,1,3,3,1,Ko,918
-485,12,13,Why do they have a high mutation rate? <|endoftext|>,1,3,1,1,Ko,918
-486,6,14,How does the virus impact the bees? <|endoftext|>,1,3,1,1,Ko,918
-487,16,17,What does the research suggest about the cause of colony collapse disorder? <|endoftext|>,1,1,1,2,Ko,918
-488,17,18,What evidence is there that the virus is associated with lower rates of over-winter survival? <|endoftext|>,1,2,1,1,Ko,918
-489,19,20,What other diseases did the study report? <|endoftext|>,1,1,1,3,Ko,918
-490,1,2,What is an example of the famous Portuguese catamaran? <|endoftext|>,1,2,3,2,Ko,919
-491,2,3,What do critics say about the so-called 'eco-boats'? <|endoftext|>,1,1,2,2,Ko,919
-492,3,4,Why do critics say the boats do little to address the more pressing question of sewage? <|endoftext|>,1,1,1,1,Ko,919
-493,4,5,What other kinds of garbage does the sewage service collect? <|endoftext|>,1,3,3,2,Ko,919
-494,2,6,What has been the outcome of the tests conducted on waterways? <|endoftext|>,1,1,2,2,Ko,919
-495,2,8,What could happen if the catamaran is not careful? <|endoftext|>,1,3,3,2,Ko,919
-496,6,9,What other aquatic event has happened in Rio during the past few days? <|endoftext|>,1,1,1,1,Ko,919
-497,12,13,What happens after the boat is empty? <|endoftext|>,1,3,3,2,Ko,919
-498,15,16,How much is the sewage treatment system? <|endoftext|>,1,3,1,1,Ko,919
-499,18,19,How much do the boats cost? <|endoftext|>,1,1,1,1,Ko,919
-500,1,2,What did the conservationists do to help their endangered species? <|endoftext|>,1,3,1,1,Ko,920
-501,2,3,What did he do after placing the tortoise? <|endoftext|>,No,skipped,skipped,skipped,Ko,920
-502,3,4,What happened to the tortoise after that? <|endoftext|>,1,1,1,1,Ko,920
-503,4,5,Why did they choose to tag the tortoise for life? <|endoftext|>,1,3,1,1,Ko,920
-504,3,8,How many of the 7001 MG were found to be in illegal trade? <|endoftext|>,1,3,3,3,Ko,920
-505,10,12,What other ways are the conservancies using shell identification marks to fight poaching? <|endoftext|>,1,1,1,1,Ko,920
-506,13,14,What has happened in the past to get people to help? <|endoftext|>,1,1,2,1,Ko,920
-507,1,18,Why are golden domes of these rarest tortoises being trafficked? <|endoftext|>,1,3,1,1,Ko,920
+481,2,5,How much value is the agricultural industry of the United States? ,No,skipped,skipped,skipped,Ko,918
+482,6,7,How much money does the food industry spend on beehives? ,1,1,1,3,Ko,918
+483,2,10,What does the virus do? ,1,1,1,1,Ko,918
+484,10,12,How do the resulting mutations affect the virus? ,1,3,3,1,Ko,918
+485,12,13,Why do they have a high mutation rate? ,1,3,1,1,Ko,918
+486,6,14,How does the virus impact the bees? ,1,3,1,1,Ko,918
+487,16,17,What does the research suggest about the cause of colony collapse disorder? ,1,1,1,2,Ko,918
+488,17,18,What evidence is there that the virus is associated with lower rates of over-winter survival? ,1,2,1,1,Ko,918
+489,19,20,What other diseases did the study report? ,1,1,1,3,Ko,918
+490,1,2,What is an example of the famous Portuguese catamaran? ,1,2,3,2,Ko,919
+491,2,3,What do critics say about the so-called 'eco-boats'? ,1,1,2,2,Ko,919
+492,3,4,Why do critics say the boats do little to address the more pressing question of sewage? ,1,1,1,1,Ko,919
+493,4,5,What other kinds of garbage does the sewage service collect? ,1,3,3,2,Ko,919
+494,2,6,What has been the outcome of the tests conducted on waterways? ,1,1,2,2,Ko,919
+495,2,8,What could happen if the catamaran is not careful? ,1,3,3,2,Ko,919
+496,6,9,What other aquatic event has happened in Rio during the past few days? ,1,1,1,1,Ko,919
+497,12,13,What happens after the boat is empty? ,1,3,3,2,Ko,919
+498,15,16,How much is the sewage treatment system? ,1,3,1,1,Ko,919
+499,18,19,How much do the boats cost? ,1,1,1,1,Ko,919
+500,1,2,What did the conservationists do to help their endangered species? ,1,3,1,1,Ko,920
+501,2,3,What did he do after placing the tortoise? ,No,skipped,skipped,skipped,Ko,920
+502,3,4,What happened to the tortoise after that? ,1,1,1,1,Ko,920
+503,4,5,Why did they choose to tag the tortoise for life? ,1,3,1,1,Ko,920
+504,3,8,How many of the 7001 MG were found to be in illegal trade? ,1,3,3,3,Ko,920
+505,10,12,What other ways are the conservancies using shell identification marks to fight poaching? ,1,1,1,1,Ko,920
+506,13,14,What has happened in the past to get people to help? ,1,1,2,1,Ko,920
+507,1,18,Why are golden domes of these rarest tortoises being trafficked? ,1,3,1,1,Ko,920
 508,17,19,Where were the seized ploughshare tortoises being held after they were seized in March?,1,2,1,1,Ko,920
-509,19,20,What happened to the ploughshare tortoises after they were captured in 2008? <|endoftext|>,1,1,1,1,Ko,920
+509,19,20,What happened to the ploughshare tortoises after they were captured in 2008? ,1,1,1,1,Ko,920
 510,1,2,What is the opinion of Senator John Glenn regarding the tracing of U.S. exports of nuclear material?,1,3,1,1,chatgpt,1439
 511,1,3,What is the potential danger of the inadequate tracing of U.S. exports of nuclear material?,1,2,1,1,chatgpt,1439
 512,2,4,What is the concern regarding U.S. exports of nuclear material?,1,3,1,3,chatgpt,1439
