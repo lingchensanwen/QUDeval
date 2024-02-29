@@ -29,7 +29,7 @@ ended with "_NP-based_strict_*.txt"
 <code>!python gpt_response</code> will get gpt response for both zero-shot and few-shot evaluation using gpt, in this repo example we use gpt-3.5-turbo
 
 
-### [for Hou-2021 base](QUDeval/code/criteria3_giveness/Hou-2021)
+### [for Hou-2021 base](QUDeval/code/criteria3_giveness/Entity-classify)
 We cloned [Hou-2021 repo](https://github.com/IBM/bridging-resolution/tree/master) and we're mainly using End2endISPrediction here to classify entity.
 We modify on this code so we have labels for ["old_np", "new_np", "mediated"] only. Also you need to ask Yufang (bnuxiaofang@gmail.com) to get the trained mention extraction model. (We'll contact her as well to see if she can post it publicly). 
 Before run on her code, you may also wanna process your file, 
