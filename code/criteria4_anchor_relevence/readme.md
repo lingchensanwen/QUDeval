@@ -15,4 +15,4 @@ Then to classify your files on threshold run <code>!python eval_by_threshold</co
 
 ### [for rule base](QUDeval/code/criteria4_anchor_relevence/rule-base)
 This depends on np base method as well. Please check [this path](QUDeval/code/criteria3_giveness) to genearte required np file.
-<code>!python eval_rule.py</code>
+Then run <code>!python eval_rule.py</code>
