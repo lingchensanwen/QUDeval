@@ -1,0 +1,31 @@
+,response,anchor_id,answer_id,questions,filtered response
+0,"Selected option:
+3: Hallucination",1,2,"What is the recent history of the peace talks? <|endoftext|>
+",3
+1,"Selected option:
+[1: No new concepts]",2,3,"What else was agreed upon by the representatives of the Russian Federation and Ingushetia? <|endoftext|>
+",1
+2,"Selected option:
+3: Hallucination",2,4,"What is problematic about the limited cease-fire? <|endoftext|>
+",3
+3,"Selected option:
+3: Hallucination",1,5,"Why are the peace talks set to resume? <|endoftext|>
+",3
+4,"The question contains new concepts that are in the answer sentence AND not in the context.
+Selected option:
+2: Answer leakage",2,6,"What is the stance of Russia's counterpart to the cease-fire in Ingushetia?
+",2
+5,"The question contains new concepts that are not in the context, but can be found later in the document.
+3: Hallucination",6,7,"How have previous offers been ignored by the Feisty Mascot? <|endoftext|>
+",3
+6,"Selected option:
+1: No new concepts",1,8,"Where will the peace talks be held? <|endoftext|>
+",1
+7,3: Hallucination,2,9,"What do the resumption of the talks in the town of Sleptsovsk do to the cease
+",3
+8,"The question does not contain new concepts.
+Option: 1: No new concepts",9,10,"Why do some feel the cease-fire can hold? <|endoftext|>
+",1
+9,"Selected option:
+3: Hallucination",1,11,"Why are the peace talks called resets? <|endoftext|>
+",3
