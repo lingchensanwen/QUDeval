@@ -13,3 +13,6 @@ To obatin best threshold run <code>!python find_best_threshold</code> and you wi
 
 Then to classify your files on threshold run <code>!python eval_by_threshold</code>. This is very similiar to find_best_threshold. 
 
+### [for rule base](QUDeval/code/criteria4_anchor_relevence/rule-base)
+This depends on np base method as well. Please check [this path](QUDeval/code/criteria3_giveness) to genearte required np file.
+<code>!python eval_rule.py</code>

@@ -1,0 +1,21 @@
+,questions,anchor_id,Longest np,Longest np head,results
+0,"What is the recent history of the peace talks? <|endoftext|>
+",1,the recent history of the peace talks,history,Longest NP: [the recent history of the peace talks] ; Head of Longest NP: [history]
+1,"What else was agreed upon by the representatives of the Russian Federation and Ingushetia? <|endoftext|>
+",2,the representatives of the Russian Federation and Ingushetia,representatives,Longest NP: [the representatives of the Russian Federation and Ingushetia] ; Head of Longest NP: [representatives]
+2,"What is problematic about the limited cease-fire? <|endoftext|>
+",2,the limited cease-fire,cease-fire,Longest NP: [the limited cease-fire] ; Head of Longest NP: [cease-fire]
+3,"Why are the peace talks set to resume? <|endoftext|>
+",1,the peace talks,talks,Longest NP: [the peace talks] ; Head of Longest NP: [talks]
+4,"What is the stance of Russia's counterpart to the cease-fire in Ingushetia?
+",2,the stance of Russia's counterpart to the cease-fire in Ingushetia,stance,Longest NP: [the stance of Russia's counterpart to the cease-fire in Ingushetia] ; Head of Longest NP: [stance]
+5,"How have previous offers been ignored by the Feisty Mascot? <|endoftext|>
+",6,previous offers,offers,Longest NP: [previous offers] ; Head of Longest NP: [offers]
+6,"Where will the peace talks be held? <|endoftext|>
+",1,the peace talks,talks,Longest NP: [the peace talks] ; Head of Longest NP: [talks]
+7,"What do the resumption of the talks in the town of Sleptsovsk do to the cease
+",2,the resumption of the talks in the town of Sleptsovsk,resumption,Longest NP: [the resumption of the talks in the town of Sleptsovsk] ; Head of Longest NP: [resumption]
+8,"Why do some feel the cease-fire can hold? <|endoftext|>
+",9,the cease-fire,cease-fire,Longest NP: [the cease-fire] ; Head of Longest NP: [cease-fire]
+9,"Why are the peace talks called resets? <|endoftext|>
+",1,the peace talks,talks,Longest NP: [the peace talks] ; Head of Longest NP: [talks]
