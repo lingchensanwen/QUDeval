@@ -21,10 +21,10 @@ In this implementation, there's many approaches calling gpt so we save multiple 
 ## For criteria 3
 
 ### reference free:
-- [x] [Rule-base](QUDeval/code/criteria3_giveness/rule-base)
-- [x] [Hou (2021)](QUDeval/code/criteria3_giveness/Entity-classify)
-- [x] [GPT-zero-shot](/home/yw23374/QUDeval/code/criteria3_giveness/gpt-base) 
-- [x] [GPT-few-shot](/home/yw23374/QUDeval/code/criteria3_giveness/gpt-base) 
+- [x] [Rule-base](criteria3_giveness/rule-base)
+- [x] [Hou (2021)](criteria3_giveness/Entity-classify)
+- [x] [GPT-zero-shot](criteria3_giveness/gpt-base) 
+- [x] [GPT-few-shot](criteria3_giveness/gpt-base) 
 
 ### reference based:
 - [ ] BLEU-1
@@ -38,10 +38,10 @@ In this implementation, there's many approaches calling gpt so we save multiple 
 ## For criteria 4
 
 ### reference free:
-- [x] [Rule-base](QUDeval/code/criteria4_anchor_relevence/rule-base)
-- [x] [GPT-Score](QUDeval/code/criteria4_anchor_relevence/gpt-score-base)
-- [x] [GPT-zero-shot](QUDeval/code/criteria4_anchor_relevence/gpt-base) 
-- [x] [GPT-few-shot](QUDeval/code/criteria4_anchor_relevence/gpt-base) 
+- [x] [Rule-base](criteria4_anchor_relevence/rule-base)
+- [x] [GPT-Score](criteria4_anchor_relevence/gpt-score-base)
+- [x] [GPT-zero-shot](criteria4_anchor_relevence/gpt-base) 
+- [x] [GPT-few-shot](criteria4_anchor_relevence/gpt-base) 
 - [ ] BLEU1-sim
 
 ### reference based:
