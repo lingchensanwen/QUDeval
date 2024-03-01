@@ -32,10 +32,8 @@ The data is placed under the [`data`](https://github.com/lingchensanwen/QUDeval/
 
 ## Code for Evaluation 🖥️
 
-*Work in progress:* We're in the process of finalizing the scripts for data processing and evaluation. These resources will soon be available in the [`code`](https://github.com/lingchensanwen/QUDeval/tree/main/code) folder.
+*Work in progress:* We're in the process of finalizing the scripts for data processing and evaluation. These resources will soon be available in the [`code`](https://github.com/lingchensanwen/QUDeval/tree/main/code) folder. You can check the progress under this path as well.
 
-## UI for Collection will be posted soon.
----
+## UI for Collection 📁
 
-Stay tuned for more updates, and thank you for your interest in QUDeval!
-
+The code can be found under [this repo](https://github.com/lingchensanwen/QUD-eval-data-collection-flask)
