@@ -1,6 +1,5 @@
 import openai
 import pandas as pd
-from nltk import tokenize
 import os
 from openai import OpenAI
 import re

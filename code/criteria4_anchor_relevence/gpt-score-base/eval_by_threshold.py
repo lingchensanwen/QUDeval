@@ -90,11 +90,11 @@ def generate_predict_labels(essay_path):
         result = get_few_shots_chatgpt_response(prompt)
         score = extract_number_from_string(result)
         if score > best_thresh2:
-            response.append(1)
+            response.append(3)
         elif score > best_thresh1:
             response.append(2)
         else:
-            response.append(3)
+            response.append(1)
 
     response_df = pd.DataFrame({
         "response": response,

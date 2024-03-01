@@ -7,15 +7,15 @@ response,anchor_id,answer_id,questions,filtered response
 ",90
 95,1,5,"Why are the peace talks set to resume? <|endoftext|>
 ",95
-80,2,6,"What is the stance of Russia's counterpart to the cease-fire in Ingushetia?
-",80
+Score: 100,2,6,"What is the stance of Russia's counterpart to the cease-fire in Ingushetia?
+",100
 Score: 1,6,7,"How have previous offers been ignored by the Feisty Mascot? <|endoftext|>
 ",1
 95,1,8,"Where will the peace talks be held? <|endoftext|>
 ",95
 95,2,9,"What do the resumption of the talks in the town of Sleptsovsk do to the cease
 ",95
-Score: 50,9,10,"Why do some feel the cease-fire can hold? <|endoftext|>
-",50
-20,1,11,"Why are the peace talks called resets? <|endoftext|>
-",20
+Score: 100,9,10,"Why do some feel the cease-fire can hold? <|endoftext|>
+",100
+30,1,11,"Why are the peace talks called resets? <|endoftext|>
+",30

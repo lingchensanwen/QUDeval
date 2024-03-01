@@ -1,14 +1,8 @@
 import openai
 import os
-import openai
 import pandas as pd
 import os
-from openai import OpenAI
-import re
-import numpy as np
-from sklearn.metrics import f1_score
 import spacy
-import nltk
 from nltk.stem import WordNetLemmatizer
 
 NP_FILE_PATH = "example_article_with_np.csv"

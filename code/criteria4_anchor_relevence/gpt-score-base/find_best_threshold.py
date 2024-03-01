@@ -105,6 +105,7 @@ def find_best_thresholds(gold_list, scores_pred):
         for t2 in threshold2:
             if t1 < t2:  # This ensures t1 is less than t2
                 # Make predictions based on thresholds
+                # Note for criteria 4, 1 is well grounded, 2 is part grounded and 3 is not grounded at all
                 predictions = np.where(scores_pred > t2, 1, (np.where((scores_pred > t1) & (scores_pred <= t2), 2, 3)))
 
                 # Calculate macro F1 score
