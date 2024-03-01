@@ -1,6 +1,5 @@
 
-In this implementation, there's many approaches calling gpt so we save multiple files in the code to make the paying for api meaningful. For each criteria please go to corresponding directory and check its readme file. For your implemenation, you're expected to set up file path for desired inputs and outputs. We're still actively modifying and cleaning the code. And the progress is shown below. Thank you for your interest in our work.
-
+In this implementation, there are many approaches to calling GPT APIs (also some not calling though), so we save multiple files in the code to make paying for the API meaningful and easy to debug. For each criterion, please go to the corresponding directory and check its readme file. For your implementation, you are expected to set up file paths for desired inputs and outputs. We are still actively modifying and cleaning the code, and the progress is shown below. Thank you for your interest in our work.
 
 ## For criteria 1, there's just yes/no and we simply filter and check them
 
