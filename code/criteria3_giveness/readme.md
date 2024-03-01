@@ -38,9 +38,9 @@ Before run on her code, you may also wanna process your file,
 1. run <code>!python longest_np.py</code> to get longest np 
 2. run <code>!python format_input.py</code> to format your article ready for classify
 
-Then please follow Hou's instruction to run the code under [] and classify it to ["old_np", "new_np", "mediated"]
+Then please follow Hou's instruction to run the code under this sub-repo and classify it to ["old_np", "new_np", "mediated"]
 then you should be able to get a [txt file like this example](QUDeval/code/criteria3_giveness/Hou-2021/bridging-resolution/End2endISPrediction/preprocess/example_entity.txt) and the 2nd column is your predict result for those three labels 0 - old_np, 1 - new_np, 2 - mediated
 
-(Before run 3, you need to check above run rule-base to get a rule base reference as we need to differentiate new into different cases)
+(Before run 3, you need to check above run rule-base to get a rule base reference as we need to differentiate new_np into different cases)
 
 3. run <code>!python post_predict.py</code> to futher convert those three labels to ["No new concept", "Answer leakage", "Hallucination"]
