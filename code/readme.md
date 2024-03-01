@@ -18,7 +18,7 @@ In this implementation, there's many approaches calling gpt so we save multiple 
 - [ ] GPT-Score
 
 
-## For criteria 3
+## For criteria 3 - please read [readme for it](criteria3_giveness/readme.md)
 
 ### reference free:
 - [x] [Rule-base](criteria3_giveness/rule-base)
@@ -35,14 +35,14 @@ In this implementation, there's many approaches calling gpt so we save multiple 
 - [ ] GPT-Score
 
 
-## For criteria 4
+## For criteria 4 - please read [readme for it](criteria4_anchor_relevence/readme.md)
 
 ### reference free:
 - [x] [Rule-base](criteria4_anchor_relevence/rule-base)
 - [x] [GPT-Score](criteria4_anchor_relevence/gpt-score-base)
 - [x] [GPT-zero-shot](criteria4_anchor_relevence/gpt-base) 
 - [x] [GPT-few-shot](criteria4_anchor_relevence/gpt-base) 
-- [ ] BLEU1-sim
+- [x] [BLEU1-sim](criteria4_anchor_relevence/bleu1-smi)
 
 ### reference based:
 - [ ] BLEU-1

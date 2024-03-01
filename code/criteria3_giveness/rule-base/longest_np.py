@@ -1,8 +1,5 @@
 import openai
-import random
 import pandas as pd
-from nltk import tokenize
-import nltk
 import os
 from openai import OpenAI
 

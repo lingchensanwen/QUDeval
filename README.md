@@ -34,6 +34,7 @@ The data is placed under the [`data`](https://github.com/lingchensanwen/QUDeval/
 
 *Work in progress:* We're in the process of finalizing the scripts for data processing and evaluation. These resources will soon be available in the [`code`](https://github.com/lingchensanwen/QUDeval/tree/main/code) folder.
 
+## UI for Collection will be posted soon.
 ---
 
 Stay tuned for more updates, and thank you for your interest in QUDeval!
