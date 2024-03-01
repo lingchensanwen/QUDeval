@@ -3,8 +3,9 @@ In this implementation, there's many approaches calling gpt so we save multiple 
 
 ```
 
-For criteria 1, there's just yes/no and we simply filter and check them
-For criteria 2
+## For criteria 1, there's just yes/no and we simply filter and check them
+
+## For criteria 2
 
 ### reference free:
 - [ ] GPT-Score
@@ -18,7 +19,7 @@ For criteria 2
 - [ ] GPT-Score
 
 
-For criteria 3
+## For criteria 3
 
 ### reference free:
 - [x] Rule-base
@@ -35,7 +36,7 @@ For criteria 3
 - [ ] GPT-Score
 
 
-For criteria 4
+## For criteria 4
 
 ### reference free:
 - [x] Rule-base
