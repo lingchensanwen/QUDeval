@@ -17,7 +17,7 @@ In this implementation, there are many approaches to call GPT APIs (also some no
 - [ ] GPT-Score
 
 
-## For criteria 3 - please read [readme for it](criteria3_giveness/readme.md)
+## For criteria 3 - please check [readme for it](criteria3_giveness/readme.md)
 
 ### reference free:
 - [x] [Rule-base](criteria3_giveness/rule-base)
@@ -34,7 +34,7 @@ In this implementation, there are many approaches to call GPT APIs (also some no
 - [ ] GPT-Score
 
 
-## For criteria 4 - please read [readme for it](criteria4_anchor_relevence/readme.md)
+## For criteria 4 - please check [readme for it](criteria4_anchor_relevence/readme.md)
 
 ### reference free:
 - [x] [Rule-base](criteria4_anchor_relevence/rule-base)
