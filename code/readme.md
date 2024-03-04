@@ -8,14 +8,6 @@ In this implementation, there are many approaches to call GPT APIs (also some no
 ### reference free:
 - [x] [GPT-Score](criteria2_answer_compatibility/gpt-score-base/)
 - [x] [GPT-Answer](criteria2_answer_compatibility/gpt-answer-base/)
-### reference based:
-- [ ] BLEU-1
-- [ ] BERTScore
-- [ ] METEOR
-- [ ] ROUGE
-- [ ] QSTS
-- [ ] GPT-Score
-
 
 ## For criteria 3 - please check [readme for it](criteria3_giveness/readme.md)
 
@@ -24,14 +16,6 @@ In this implementation, there are many approaches to call GPT APIs (also some no
 - [x] [Hou (2021)](criteria3_giveness/Entity-classify)
 - [x] [GPT-zero-shot](criteria3_giveness/gpt-base) 
 - [x] [GPT-few-shot](criteria3_giveness/gpt-base) 
-
-### reference based:
-- [ ] BLEU-1
-- [ ] BERTScore
-- [ ] METEOR
-- [ ] ROUGE
-- [ ] QSTS
-- [ ] GPT-Score
 
 
 ## For criteria 4 - please check [readme for it](criteria4_anchor_relevence/readme.md)
@@ -44,9 +28,5 @@ In this implementation, there are many approaches to call GPT APIs (also some no
 - [x] [BLEU1-sim](criteria4_anchor_relevence/bleu1-smi)
 
 ### reference based:
-- [ ] BLEU-1
-- [ ] BERTScore
-- [ ] METEOR
-- [ ] ROUGE
-- [ ] QSTS
-- [ ] GPT-Score
+- [x] [all-reference-based](reference_based_measures)
+
