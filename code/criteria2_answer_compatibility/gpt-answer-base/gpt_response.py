@@ -96,7 +96,6 @@ def write_response_back():
 
 
 def main():
-    os.environ['OPENAI_API_KEY'] = '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'
     openai.api_key = os.getenv('OPENAI_API_KEY')
     openai.organization = os.getenv('OPENAI_ORGANIZATION')
     write_response_back()
