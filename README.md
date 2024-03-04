@@ -38,4 +38,4 @@ The data is placed under the [`data`](https://github.com/lingchensanwen/QUDeval/
 
 ## Code for Evaluation 🖥️
 
-*Work in progress:* We're in the process of finalizing the scripts for data processing and evaluation. These resources will soon be available in the [`code`](https://github.com/lingchensanwen/QUDeval/tree/main/code) folder. You can check the progress under this path as well.
+The code can be found under [`code`](https://github.com/lingchensanwen/QUDeval/tree/main/code) folder
