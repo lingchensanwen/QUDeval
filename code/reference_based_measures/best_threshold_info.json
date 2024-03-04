@@ -1,0 +1,68 @@
+{
+    "criteria2": {
+        "bleu": {
+            "threshold1": 0.0,
+            "threshold2": 0.19191919191919193
+        },
+        "bert": {
+            "threshold1": 0.0,
+            "threshold2": 0.08080808080808081
+        },
+        "meteor": {
+            "threshold1": 0.06060606060606061,
+            "threshold2": 0.07070707070707072
+        },
+        "rouge": {
+            "threshold1": 0.0,
+            "threshold2": 0.09090909090909091
+        },
+        "gpt": {
+            "threshold1": 55.55555555555556,
+            "threshold2": 88.88888888888889
+        }
+    },
+    "criteria3": {
+        "bleu": {
+            "threshold1": 0.08080808080808081,
+            "threshold2": 0.11111111111111112
+        },
+        "bert": {
+            "threshold1": 0.15151515151515152,
+            "threshold2": 0.18181818181818182
+        },
+        "meteor": {
+            "threshold1": 0.09090909090909091,
+            "threshold2": 0.12121212121212122
+        },
+        "rouge": {
+            "threshold1": 0.09090909090909091,
+            "threshold2": 0.12121212121212122
+        },
+        "gpt": {
+            "threshold1": 0.0,
+            "threshold2": 11.11111111111111
+        }
+    },
+    "criteria4": {
+        "bleu": {
+            "threshold1": 0.08080808080808081,
+            "threshold2": 0.11111111111111112
+        },
+        "bert": {
+            "threshold1": 0.15151515151515152,
+            "threshold2": 0.393939393939394
+        },
+        "meteor": {
+            "threshold1": 0.0,
+            "threshold2": 0.010101010101010102
+        },
+        "rouge": {
+            "threshold1": 0.09090909090909091,
+            "threshold2": 0.12121212121212122
+        },
+        "gpt": {
+            "threshold1": 0.0,
+            "threshold2": 11.11111111111111
+        }
+    }
+}
