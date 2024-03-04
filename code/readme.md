@@ -6,8 +6,8 @@ In this implementation, there are many approaches to call GPT APIs (also some no
 ## For criteria 2
 
 ### reference free:
-- [ ] GPT-Score
-- [ ] GPT-Answer
+- [x] [GPT-Score](criteria2_answer_compatibility/gpt_score_base/)
+- [x] [GPT-Answer](criteria2_answer_compatibility/gpt_answer_base/)
 ### reference based:
 - [ ] BLEU-1
 - [ ] BERTScore

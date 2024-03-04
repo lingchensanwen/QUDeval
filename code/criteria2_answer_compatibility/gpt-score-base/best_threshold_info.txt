@@ -1,0 +1,1 @@
+Best thresholds: 60, 90 with Macro F1 score of 0.37
