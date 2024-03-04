@@ -3,7 +3,7 @@ In this implementation, there are many approaches to call GPT APIs (also some no
 
 ## For criteria 1, there's just yes/no and we simply filter and check them
 
-## For criteria 2
+## For criteria 2 - please check [readme for it](criteria2_answer_compatibility/readme.md)
 
 ### reference free:
 - [x] [GPT-Score](criteria2_answer_compatibility/gpt-score-base/)
