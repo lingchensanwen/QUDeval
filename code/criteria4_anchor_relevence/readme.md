@@ -6,7 +6,8 @@ Note for this criteria, label 1 is well grounded, label 2 is part grounded, labe
 
 ### Directory structure
 
-example_reference_data.txt - example article, please replace this with articles you want to run eval on example_reference_tuning.txt - example article, please replace this with instances that you want to use to tune the threshold
+example_reference_data.txt - example article, please replace this with articles you want to run eval on.
+example_reference_tuning.txt - example article, please replace this with instances that you want to use to tune the threshold
 
 ### [for gpt base](https://github.com/lingchensanwen/QUDeval/tree/main/code/criteria4_anchor_relevence/gpt-base) 
 <code>!python gpt_response</code> to get zero-shot and few-shot gpt eval, by default we're using the best model gpt-4.
