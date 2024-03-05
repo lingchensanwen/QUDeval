@@ -8,11 +8,11 @@ Welcome to the official repository for the EMNLP 2023 paper, "QUDeval: The Evalu
 If you find our work useful or relevant to your research, please consider citing our paper. 
 ```bibtex
 @inproceedings{wu2023qudeval,
-    title={QUDeval: The Evaluation of Questions Under Discussion Discourse Parsing},
-    author={Wu, Yating and Mangla, Ritika and Durrett, Greg and Li, Junyi Jessy},
-    booktitle={EMNLP 2023},
-    pages={to appear},
-    year={2023}
+  title={QUDeval: The Evaluation of Questions Under Discussion Discourse Parsing},
+  author={Wu, Yating and Mangla, Ritika and Durrett, Greg and Li, Junyi Jessy},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages={5344--5363},
+  year={2023}
 }
 
 ```
