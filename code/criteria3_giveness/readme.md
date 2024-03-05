@@ -39,7 +39,7 @@ Before run on her code, you may also wanna process your file,
 2. run <code>!python format_input.py</code> to format your article ready for classify
 
 Then please follow Hou's instruction to run the code under this sub-repo and classify it to ["old_np", "new_np", "mediated"]
-then you should be able to get a [txt file like this example](QUDeval/code/criteria3_giveness/Hou-2021/bridging-resolution/End2endISPrediction/preprocess/example_entity.txt) and the 2nd column is your predict result for those three labels 0 - old_np, 1 - new_np, 2 - mediated
+then you should be able to get a [txt file like this example](https://github.com/lingchensanwen/QUDeval/blob/main/code/criteria3_giveness/Entity-classify/bridging-resolution/End2endISPrediction/preprocess/example_entity.txt) and the 2nd column is your predict result for those three labels 0 - old_np, 1 - new_np, 2 - mediated
 
 (Before run 3, you need to check above run rule-base to get a rule base reference as we need to differentiate new_np into different cases)
 

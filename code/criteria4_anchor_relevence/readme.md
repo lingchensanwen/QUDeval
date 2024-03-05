@@ -16,7 +16,7 @@ To obatin best threshold run <code>!python find_best_threshold</code> and you wi
 Then to classify your files on threshold run <code>!python eval_by_threshold</code>. 
 
 ### [for rule base](https://github.com/lingchensanwen/QUDeval/tree/main/code/criteria4_anchor_relevence/rule-base)
-This depends on np base method as well. Please check [this path](../code/criteria3_giveness) to genearte required np file.
+This depends on np base method as well. Please check [this path](https://github.com/lingchensanwen/QUDeval/tree/main/code/criteria3_giveness/rule-base) to genearte required np file.
 Then run <code>!python eval_rule.py</code>
 
 ### [for BLEU1-smi](https://github.com/lingchensanwen/QUDeval/tree/main/code/criteria4_anchor_relevence/bleu1-smi) 
