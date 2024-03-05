@@ -27,6 +27,6 @@ In this implementation, there are many approaches to call GPT APIs (also some no
 - [x] [GPT-few-shot](criteria4_anchor_relevence/gpt-base) 
 - [x] [BLEU1-sim](criteria4_anchor_relevence/bleu1-smi)
 
-### For reference based measures:
+## For reference based measures:
 - [x] [all-reference-based](reference_based_measures)
 
