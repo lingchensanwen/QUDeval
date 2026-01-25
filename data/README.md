@@ -2,6 +2,8 @@
 
 This repository hosts a dataset of 2,190 Question Under Discussion (QUD) entries, carefully annotated to support further studies in the field.
 
+The articles from which these quesitons are generated can be downloaded from [this link](https://utexas.box.com/s/436401a9pfqrhm5gg4m5goq41u1p8tt6).
+
 ## Dataset Structure 📊
 
 The dataset includes the following headers:
