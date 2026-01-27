@@ -28,6 +28,10 @@ Three skilled annotators — Keziah Reina, Kathryn Kazanas, and Karim Villaescus
 
 It's important to note that we revisited and adjusted certain annotations post-paper submission to address cases lacking initial agreement among the annotators. This step was vital in achieving a majority consensus and enhancing the dataset's reliability.
 
+### Articles for those annotaiton
+
+We provide the 51 articles we mentioned in the paper for those annotation [here](https://utexas.box.com/s/436401a9pfqrhm5gg4m5goq41u1p8tt6) 
+
 ## Acknowledgments 🌟
 
 A heartfelt thanks to our annotators: Keziah Reina, Kathryn Kazanas, Karim Villaescusa F. Their time and expertise have been invaluable in creating this robust dataset.
